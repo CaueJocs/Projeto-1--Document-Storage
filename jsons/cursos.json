@@ -1,0 +1,16 @@
+{
+    " " :{
+        "curso" : {
+            "name" : ,
+            "id": 
+        },
+        "disciplinas" : [
+            {"id" : , "name": , "seme": },
+            {"id" : , "name": , "seme": },
+            {"id" : , "name": , "seme": },
+            {"id" : , "name": , "seme": },
+            {"id" : , "name": , "seme": },
+        ]
+
+    }
+}

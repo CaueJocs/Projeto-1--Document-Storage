@@ -1,0 +1,32 @@
+{
+    " ": {
+        "id": , 
+        "nome" : ,
+        "dep" : , 
+        "chef_dep" : ,
+        "disciplinas" : [
+            {
+                "id" : ,
+                "nome_disc" : , 
+                "nome_curso" : ,
+                "ano" : ,
+                "semestre" : 
+            },
+            {
+                "id" : ,
+                "nome_disc" : , 
+                "nome_curso" : ,
+                "ano" : ,
+                "semestre" : 
+            },
+            {
+                "id" : ,
+                "nome_disc" : , 
+                "nome_curso" : ,
+                "ano" : ,
+                "semestre" : 
+            }
+        ],
+        "tcc_id" : 
+    }
+}
