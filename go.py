@@ -64,23 +64,75 @@ def getProfessor():
     FROM professor_aulas pa
     JOIN professor p ON p.id_professor = pa.id_professor
     JOIN disciplinas d ON d.cod_disc = pa.cod_disc;
-''')
+    ''')
 
     prof_disc = cur.fetchall()
     
     cur.execute('select p.id_professor ,tcc.id_tcc  from alunos_tcc tcc right join professor p on p.id_professor = tcc.id_professor; ')
     prof_tcc = cur.fetchall()
     
+    print("{")
     for i in range(len(prof)):
-        print(prof[i][0])
-        print(prof[i][1])
-        print(prof[i][2])
-        
-        if prof[i][3] == 'None':
-            print("Null")
+        if prof[i][3] is None:
+            part1 = """
+            " %d": {
+                "id": %d , 
+                "nome" : "%s",
+                "dep" : %d, 
+                "chef_dep" : "%s",
+                "disciplinas" : [
+            """ % (i + 1, prof[i][0], prof[i][1], prof[i][2], "NULL")
+            print(part1, end="")
         else:
-            print(prof[i][3])
+            part1 = """
+            " %d": {
+                "id": %d , 
+                "nome" : "%s",
+                "dep" : %d, 
+                "chef_dep" : %d,
+                "disciplinas" : [
+            """ % (i + 1, prof[i][0], prof[i][1], prof[i][2], prof[i][3])
+            print(part1, end="")
+        
+        # Processar disciplinas
+        disciplinas = [
+            """
+                {
+                    "id" : %d,
+                    "nome_disc" : "%s", 
+                    "nome_curso" : "%s",
+                    "ano" : %d,
+                    "semestre" : %d
+                }""" % (prof_disc[j][1], prof_disc[j][2], prof_disc[j][3], prof_disc[j][4], prof_disc[j][5])
+            for j in range(len(prof_disc)) if prof_disc[j][0] == prof[i][0]
+        ]
+        
+        # Imprimir disciplinas, separadas por vírgulas
+        print(",".join(disciplinas))
+        print("],")
+        
+        # Processar TCC
+        if prof_tcc[i][1] is None:
+            part3 = """
+                "tcc_id" : "%s"
+            }""" % ("NULL")
+            print(part3, end="")
+        else:
+            part3 = """
+                "tcc_id" : %d
+            }""" % (prof_tcc[i][1])
+            print(part3, end="")
+        
+        # Adicionar vírgula ao final do professor, exceto no último
+        if i < len(prof) - 1:
+            print(",")  # Adicionar vírgula entre objetos do JSON
     
+    print("}")
+            
+            
+                            
+                                              
+                            
 getProfessor()
 
 
