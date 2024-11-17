@@ -93,8 +93,8 @@ def getProfessor():
                 "disciplinas" : [
             """ % (i + 1, prof[i][0], prof[i][1], prof[i][2], prof[i][3])
             print(part1, end="")
+
         
-        # Processar disciplinas
         disciplinas = [
             """
                 {
@@ -106,12 +106,12 @@ def getProfessor():
                 }""" % (prof_disc[j][1], prof_disc[j][2], prof_disc[j][3], prof_disc[j][4], prof_disc[j][5])
             for j in range(len(prof_disc)) if prof_disc[j][0] == prof[i][0]
         ]
+
         
-        # Imprimir disciplinas, separadas por vírgulas
         print(",".join(disciplinas))
         print("],")
+
         
-        # Processar TCC
         if prof_tcc[i][1] is None:
             part3 = """
                 "tcc_id" : "%s"
@@ -122,18 +122,16 @@ def getProfessor():
                 "tcc_id" : %d
             }""" % (prof_tcc[i][1])
             print(part3, end="")
+
         
-        # Adicionar vírgula ao final do professor, exceto no último
         if i < len(prof) - 1:
-            print(",")  # Adicionar vírgula entre objetos do JSON
-    
+            print(",")  
+
     print("}")
             
             
-                            
-                                              
-                            
-getProfessor()
+                                                       
+
 
 
 
