@@ -8,19 +8,19 @@ Luan Petroucic Moreno 22.122.076-7
 Caue Jacomini Zanatti 22.122.024-7
 
 
-Como convertemos os dados do projeto do semestre passado?
+#Como convertemos os dados do projeto do semestre passado?
 
 Usamos as bibliotecas do psycopg2 para podermos fazer selects dentro do nosso código de Python "createJson", um arquivo que fará a conversão necessária entre as informações do banco relacional para o banco não relacional.
 
 Todos os JSONs usado para as coleções estão na pasta JSONs, mas caso queira testar como eles foram criados, rodar o arquivo createJson.
 
 
-PRÉ-REQUISITOS:
+#PRÉ-REQUISITOS:
 
 Ter as bibliotecas PSYCOPG2 e PYMONGO instalados
 
 
-DESCRIÇÃO DE USO:
+#DESCRIÇÃO DE USO:
 
 1.Abrir a pasta scriptsPython e encontrar o arquivo "criaColeção".
 
