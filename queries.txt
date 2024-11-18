@@ -1,0 +1,60 @@
+-- Encontrar aluno e seu histórico
+
+db.Aluno.find({"id" : 5} , {"id" : 1, "nome" : 1 , "historico" : 1 , _id: 0}) -- substituir % pelo id de aluno desejado.
+
+-- Encontrar professor e disciplinas ministradas
+
+db.Professor.find({"id" : %} , {"id" : 1 , "nome" : 1 , "disciplinas" : 1 , _id : 0}) -- substituir % pelo id de professor desejado.
+OBS: Por um erro no projeto passado, nem todo professor tem uma disciplina...
+
+--Encontrar alunos que foram aprovados em todas as matérias
+
+db.Aluno.find({
+  "historico": {
+    "$not": {
+      "$elemMatch": {
+        "nota_fin": { "$lt": 5 }
+      }
+    }
+  }
+})
+
+--Encontrar professores que são chefed de departamento e qual departamento seria
+
+db.Professor.find({ "chef_dep": { "$ne": "null" } } , {"id" : 1 , "nome" : 1 , "chef_dep" : 1 , "dep_chef" : 1 , _id : 0})
+
+--Grupos de tcc e professor orientador:
+
+db.getCollection('Aluno').aggregate(
+  [
+    {
+      $group: {
+        _id: '$tcc.id_tcc',
+        alunos: {
+          $push: {
+            nome: '$nome',
+            id: '$id',
+            id_tcc: '$tcc.id_tcc'
+          }
+        }
+      }
+    },
+    {
+      $lookup: {
+        from: 'Professor',
+        localField: '_id',
+        foreignField: 'tcc_id',
+        as: 'professores'
+      }
+    },
+    {
+      $project: {
+        'alunos.nome': 1,
+        'alunos.id': 1,
+        'alunos.id_tcc': 1,
+        'professores.nome': 1,
+        'professores.tcc_id': 1
+      }
+    }
+  ]
+);

@@ -1,0 +1,1338 @@
+[
+
+    {
+       "id": 1 , 
+       "nome" : "Evelyn Cruz",
+       "dep" : 8, 
+       "chef_dep" : "null",
+       "dep_chefe" : "null",
+       "disciplinas" : [
+
+       {
+           "id" : 18,
+           "nome_disc" : "DESENHO TECNICO",
+           "nome_curso" : "ADMINISTRACAO",
+           "ano" : 2014,
+           "semestre" : 4
+       },
+       {
+           "id" : 24,
+           "nome_disc" : "PRATICAS DE INOV",
+           "nome_curso" : "ADMINISTRACAO",
+           "ano" : 2009,
+           "semestre" : 1
+       },
+       {
+           "id" : 15,
+           "nome_disc" : "PROGRAMACAO FULL",
+           "nome_curso" : "CIENCIA DA COMPUTACAO",
+           "ano" : 2012,
+           "semestre" : 3
+       }
+],
+
+       "tcc_id" : "NULL"
+   },
+
+    {
+       "id": 2 ,
+       "nome" : "Pedro Ferreira",
+       "dep" : 4,
+       "chef_dep" : "null",
+       "dep_chefe" : "null",
+       "disciplinas" : [
+
+       {
+           "id" : 3,
+           "nome_disc" : "MACROECONOMIA",
+           "nome_curso" : "CIENCIA DA COMPUTACAO",
+           "ano" : 2007,
+           "semestre" : 4
+       },
+       {
+           "id" : 15,
+           "nome_disc" : "PROGRAMACAO FULL",
+           "nome_curso" : "CIENCIA DA COMPUTACAO",
+           "ano" : 2008,
+           "semestre" : 4
+       },
+       {
+           "id" : 23,
+           "nome_disc" : "INTRODUCAO A COMPUTACAO",
+           "nome_curso" : "ENGENHARIA ELETRICA",
+           "ano" : 2012,
+           "semestre" : 4
+       }
+],
+
+       "tcc_id" : "NULL"
+   },
+
+    {
+       "id": 3 ,
+       "nome" : "Henrique Campos",
+       "dep" : 5,
+       "chef_dep" : "null",
+       "dep_chefe" : "null",
+       "disciplinas" : [
+
+       {
+           "id" : 21,
+           "nome_disc" : "PRATICA DE INOVACAO",
+           "nome_curso" : "CIENCIA DA COMPUTACAO",
+           "ano" : 2009,
+           "semestre" : 4
+       },
+       {
+           "id" : 18,
+           "nome_disc" : "DESENHO TECNICO",
+           "nome_curso" : "CIENCIA DE DADOS",
+           "ano" : 2001,
+           "semestre" : 4
+       }
+],
+
+       "tcc_id" : 2
+   },
+
+    {
+       "id": 4 ,
+       "nome" : "Noah Santos",
+       "dep" : 4,
+       "chef_dep" : "null",
+       "dep_chefe" : "null",
+       "disciplinas" : [
+
+       {
+           "id" : 2,
+           "nome_disc" : "BUSSINESS EXP",
+           "nome_curso" : "CIENCIA DA COMPUTACAO",
+           "ano" : 2009,
+           "semestre" : 1
+       }
+],
+
+       "tcc_id" : 21
+   },
+
+    {
+       "id": 5 ,
+       "nome" : "Diego Cavalcanti",
+       "dep" : 2,
+       "chef_dep" : 10,
+       "dep_chefe" : "DEPARTAMENTO 10",
+       "disciplinas" : [
+
+],
+
+       "tcc_id" : "NULL"
+   },
+
+    {
+       "id": 6 ,
+       "nome" : "Bernardo Nunes",
+       "dep" : 8,
+       "chef_dep" : 4,
+       "dep_chefe" : "DEPARTAMENTO 4",
+       "disciplinas" : [
+
+],
+
+       "tcc_id" : "NULL"
+   },
+
+    {
+       "id": 6 ,
+       "nome" : "Bernardo Nunes",
+       "dep" : 8,
+       "chef_dep" : 9,
+       "dep_chefe" : "DEPARTAMENTO 9",
+       "disciplinas" : [
+
+],
+
+       "tcc_id" : "NULL"
+   },
+
+    {
+       "id": 7 ,
+       "nome" : "Lorena Cavalcanti",
+       "dep" : 6,
+       "chef_dep" : "null",
+       "dep_chefe" : "null",
+       "disciplinas" : [
+
+       {
+           "id" : 19,
+           "nome_disc" : "FISICA 1",
+           "nome_curso" : "ENGENHARIA MECANICA",
+           "ano" : 2003,
+           "semestre" : 3
+       }
+],
+
+       "tcc_id" : 19
+   },
+
+    {
+       "id": 8 ,
+       "nome" : "Bernardo Ribeiro",
+       "dep" : 9,
+       "chef_dep" : "null",
+       "dep_chefe" : "null",
+       "disciplinas" : [
+
+       {
+           "id" : 23,
+           "nome_disc" : "INTRODUCAO A COMPUTACAO",
+           "nome_curso" : "ADMINISTRACAO",
+           "ano" : 2016,
+           "semestre" : 1
+       },
+       {
+           "id" : 3,
+           "nome_disc" : "MACROECONOMIA",
+           "nome_curso" : "ENGENHARIA ELETRICA",
+           "ano" : 2003,
+           "semestre" : 3
+       },
+       {
+           "id" : 5,
+           "nome_disc" : "SOCIOLOGIA",
+           "nome_curso" : "ENGENHARIA ELETRICA",
+           "ano" : 2010,
+           "semestre" : 4
+       },
+       {
+           "id" : 16,
+           "nome_disc" : "DIGITAL EXP",
+           "nome_curso" : "ENGENHARIA ELETRICA",
+           "ano" : 2024,
+           "semestre" : 4
+       },
+       {
+           "id" : 24,
+           "nome_disc" : "PRATICAS DE INOV",
+           "nome_curso" : "ENGENHARIA QUIMICA",
+           "ano" : 2014,
+           "semestre" : 3
+       }
+],
+
+       "tcc_id" : 13
+   },
+
+    {
+       "id": 9 ,
+       "nome" : "Isabela Santos",
+       "dep" : 6,
+       "chef_dep" : "null",
+       "dep_chefe" : "null",
+       "disciplinas" : [
+
+],
+
+       "tcc_id" : "NULL"
+   },
+
+    {
+       "id": 10 ,
+       "nome" : "Helena Machado",
+       "dep" : 10,
+       "chef_dep" : "null",
+       "dep_chefe" : "null",
+       "disciplinas" : [
+
+       {
+           "id" : 23,
+           "nome_disc" : "INTRODUCAO A COMPUTACAO",
+           "nome_curso" : "ENGENHARIA MECANICA",
+           "ano" : 2017,
+           "semestre" : 4
+       },
+       {
+           "id" : 24,
+           "nome_disc" : "PRATICAS DE INOV",
+           "nome_curso" : "ENGENHARIA MECANICA",
+           "ano" : 2019,
+           "semestre" : 2
+       }
+],
+
+       "tcc_id" : 12
+   },
+
+    {
+       "id": 11 ,
+       "nome" : "Rafael Melo",
+       "dep" : 6,
+       "chef_dep" : "null",
+       "dep_chefe" : "null",
+       "disciplinas" : [
+
+       {
+           "id" : 8,
+           "nome_disc" : "CALCULO INTEGRAL",
+           "nome_curso" : "ADMINISTRACAO",
+           "ano" : 2009,
+           "semestre" : 2
+       },
+       {
+           "id" : 18,
+           "nome_disc" : "DESENHO TECNICO",
+           "nome_curso" : "CIENCIA DA COMPUTACAO",
+           "ano" : 2000,
+           "semestre" : 2
+       }
+],
+
+       "tcc_id" : 14
+   },
+
+    {
+       "id": 12 ,
+       "nome" : "Théo Rocha",
+       "dep" : 8,
+       "chef_dep" : "null",
+       "dep_chefe" : "null",
+       "disciplinas" : [
+
+       {
+           "id" : 11,
+           "nome_disc" : "SOCIOLOGIA",
+           "nome_curso" : "CIENCIA DE DADOS",
+           "ano" : 2005,
+           "semestre" : 3
+       },
+       {
+           "id" : 16,
+           "nome_disc" : "DIGITAL EXP",
+           "nome_curso" : "ENGENHARIA DE CIVIL",
+           "ano" : 2019,
+           "semestre" : 2
+       }
+],
+
+       "tcc_id" : 8
+   },
+
+    {
+       "id": 13 ,
+       "nome" : "Júlia Cruz",
+       "dep" : 7,
+       "chef_dep" : "null",
+       "dep_chefe" : "null",
+       "disciplinas" : [
+
+       {
+           "id" : 5,
+           "nome_disc" : "SOCIOLOGIA",
+           "nome_curso" : "CIENCIA DA COMPUTACAO",
+           "ano" : 2014,
+           "semestre" : 2
+       },
+       {
+           "id" : 7,
+           "nome_disc" : "VISUALIZACAO DE DADOS",
+           "nome_curso" : "ENGENHARIA DE CIVIL",
+           "ano" : 2007,
+           "semestre" : 3
+       },
+       {
+           "id" : 18,
+           "nome_disc" : "DESENHO TECNICO",
+           "nome_curso" : "ENGENHARIA DE CIVIL",
+           "ano" : 2024,
+           "semestre" : 4
+       },
+       {
+           "id" : 11,
+           "nome_disc" : "SOCIOLOGIA",
+           "nome_curso" : "ENGENHARIA QUIMICA",
+           "ano" : 2010,
+           "semestre" : 4
+       }
+],
+
+       "tcc_id" : "NULL"
+   },
+
+    {
+       "id": 14 ,
+       "nome" : "Rebeca Martins",
+       "dep" : 1,
+       "chef_dep" : "null",
+       "dep_chefe" : "null",
+       "disciplinas" : [
+
+       {
+           "id" : 14,
+           "nome_disc" : "MODELAGEM MAT",
+           "nome_curso" : "ADMINISTRACAO",
+           "ano" : 2003,
+           "semestre" : 4
+       },
+       {
+           "id" : 21,
+           "nome_disc" : "PRATICA DE INOVACAO",
+           "nome_curso" : "ENGENHARIA DE CIVIL",
+           "ano" : 2001,
+           "semestre" : 1
+       }
+],
+
+       "tcc_id" : 20
+   },
+
+    {
+       "id": 15 ,
+       "nome" : "Clara Araújo",
+       "dep" : 10,
+       "chef_dep" : "null",
+       "dep_chefe" : "null",
+       "disciplinas" : [
+
+       {
+           "id" : 20,
+           "nome_disc" : "LAB DE MAT",
+           "nome_curso" : "CIENCIA DA COMPUTACAO",
+           "ano" : 2000,
+           "semestre" : 2
+       },
+       {
+           "id" : 6,
+           "nome_disc" : "INTRODUÇÃO A MODELAGEM MAT",
+           "nome_curso" : "ENGENHARIA DE CIVIL",
+           "ano" : 2006,
+           "semestre" : 3
+       },
+       {
+           "id" : 21,
+           "nome_disc" : "PRATICA DE INOVACAO",
+           "nome_curso" : "ENGENHARIA DE CIVIL",
+           "ano" : 2016,
+           "semestre" : 2
+       },
+       {
+           "id" : 19,
+           "nome_disc" : "FISICA 1",
+           "nome_curso" : "ENGENHARIA ELETRICA",
+           "ano" : 2001,
+           "semestre" : 1
+       }
+],
+
+       "tcc_id" : 10
+   },
+
+    {
+       "id": 16 ,
+       "nome" : "Maitê Farias",
+       "dep" : 1,
+       "chef_dep" : "null",
+       "dep_chefe" : "null",
+       "disciplinas" : [
+
+       {
+           "id" : 13,
+           "nome_disc" : "BANCO DE DADOS",
+           "nome_curso" : "ENGENHARIA DE CIVIL",
+           "ano" : 2004,
+           "semestre" : 1
+       }
+],
+
+       "tcc_id" : 17
+   },
+
+    {
+       "id": 17 ,
+       "nome" : "Enzo Nunes",
+       "dep" : 6,
+       "chef_dep" : 8,
+       "dep_chefe" : "DEPARTAMENTO 8",
+       "disciplinas" : [
+
+       {
+           "id" : 6,
+           "nome_disc" : "INTRODUÇÃO A MODELAGEM MAT",
+           "nome_curso" : "ADMINISTRACAO",
+           "ano" : 2011,
+           "semestre" : 4
+       },
+       {
+           "id" : 4,
+           "nome_disc" : "LEITURA E PENSAMENTO",
+           "nome_curso" : "ENGENHARIA QUIMICA",
+           "ano" : 2017,
+           "semestre" : 3
+       }
+],
+
+       "tcc_id" : 5
+   },
+
+    {
+       "id": 18 ,
+       "nome" : "Rafaela Nunes",
+       "dep" : 7,
+       "chef_dep" : "null",
+       "dep_chefe" : "null",
+       "disciplinas" : [
+
+       {
+           "id" : 21,
+           "nome_disc" : "PRATICA DE INOVACAO",
+           "nome_curso" : "ADMINISTRACAO",
+           "ano" : 2022,
+           "semestre" : 4
+       }
+],
+
+       "tcc_id" : "NULL"
+   },
+
+    {
+       "id": 19 ,
+       "nome" : "Gabriel Cavalcanti",
+       "dep" : 7,
+       "chef_dep" : 5,
+       "dep_chefe" : "DEPARTAMENTO 5",
+       "disciplinas" : [
+
+       {
+           "id" : 8,
+           "nome_disc" : "CALCULO INTEGRAL",
+           "nome_curso" : "ADMINISTRACAO",
+           "ano" : 2000,
+           "semestre" : 3
+       },
+       {
+           "id" : 10,
+           "nome_disc" : "DESENVOLVIMENTO WEB",
+           "nome_curso" : "CIENCIA DE DADOS",
+           "ano" : 2019,
+           "semestre" : 3
+       },
+       {
+           "id" : 19,
+           "nome_disc" : "FISICA 1",
+           "nome_curso" : "ENGENHARIA DE CIVIL",
+           "ano" : 2021,
+           "semestre" : 4
+       }
+],
+
+       "tcc_id" : 6
+   },
+
+    {
+       "id": 20 ,
+       "nome" : "Evelyn Pereira",
+       "dep" : 3,
+       "chef_dep" : 2,
+       "dep_chefe" : "DEPARTAMENTO 2",
+       "disciplinas" : [
+
+       {
+           "id" : 7,
+           "nome_disc" : "VISUALIZACAO DE DADOS",
+           "nome_curso" : "CIENCIA DE DADOS",
+           "ano" : 2022,
+           "semestre" : 4
+       },
+       {
+           "id" : 15,
+           "nome_disc" : "PROGRAMACAO FULL",
+           "nome_curso" : "ENGENHARIA DE CIVIL",
+           "ano" : 2018,
+           "semestre" : 2
+       }
+],
+
+       "tcc_id" : "NULL"
+   },
+
+    {
+       "id": 21 ,
+       "nome" : "Melissa Lopes",
+       "dep" : 6,
+       "chef_dep" : 3,
+       "dep_chefe" : "DEPARTAMENTO 3",
+       "disciplinas" : [
+
+       {
+           "id" : 14,
+           "nome_disc" : "MODELAGEM MAT",
+           "nome_curso" : "ENGENHARIA MECANICA",
+           "ano" : 2020,
+           "semestre" : 3
+       },
+       {
+           "id" : 18,
+           "nome_disc" : "DESENHO TECNICO",
+           "nome_curso" : "ENGENHARIA MECANICA",
+           "ano" : 2001,
+           "semestre" : 2
+       },
+       {
+           "id" : 13,
+           "nome_disc" : "BANCO DE DADOS",
+           "nome_curso" : "ENGENHARIA QUIMICA",
+           "ano" : 2011,
+           "semestre" : 4
+       }
+],
+
+       "tcc_id" : "NULL"
+   },
+
+    {
+       "id": 22 ,
+       "nome" : "Lucca Fonseca",
+       "dep" : 1,
+       "chef_dep" : "null",
+       "dep_chefe" : "null",
+       "disciplinas" : [
+
+       {
+           "id" : 3,
+           "nome_disc" : "MACROECONOMIA",
+           "nome_curso" : "ENGENHARIA DE CIVIL",
+           "ano" : 2014,
+           "semestre" : 2
+       },
+       {
+           "id" : 14,
+           "nome_disc" : "MODELAGEM MAT",
+           "nome_curso" : "ENGENHARIA DE CIVIL",
+           "ano" : 2017,
+           "semestre" : 1
+       },
+       {
+           "id" : 8,
+           "nome_disc" : "CALCULO INTEGRAL",
+           "nome_curso" : "ENGENHARIA ELETRICA",
+           "ano" : 2013,
+           "semestre" : 4
+       }
+],
+
+       "tcc_id" : 4
+   },
+
+    {
+       "id": 23 ,
+       "nome" : "Caio Marques",
+       "dep" : 1,
+       "chef_dep" : "null",
+       "dep_chefe" : "null",
+       "disciplinas" : [
+
+       {
+           "id" : 5,
+           "nome_disc" : "SOCIOLOGIA",
+           "nome_curso" : "ADMINISTRACAO",
+           "ano" : 2016,
+           "semestre" : 4
+       },
+       {
+           "id" : 11,
+           "nome_disc" : "SOCIOLOGIA",
+           "nome_curso" : "ENGENHARIA QUIMICA",
+           "ano" : 2015,
+           "semestre" : 4
+       }
+],
+
+       "tcc_id" : "NULL"
+   },
+
+    {
+       "id": 24 ,
+       "nome" : "Clara Nunes",
+       "dep" : 9,
+       "chef_dep" : "null",
+       "dep_chefe" : "null",
+       "disciplinas" : [
+
+       {
+           "id" : 3,
+           "nome_disc" : "MACROECONOMIA",
+           "nome_curso" : "ADMINISTRACAO",
+           "ano" : 2015,
+           "semestre" : 3
+       },
+       {
+           "id" : 17,
+           "nome_disc" : "CALCULO VETORIAL",
+           "nome_curso" : "CIENCIA DE DADOS",
+           "ano" : 2013,
+           "semestre" : 3
+       },
+       {
+           "id" : 13,
+           "nome_disc" : "BANCO DE DADOS",
+           "nome_curso" : "ENGENHARIA QUIMICA",
+           "ano" : 2002,
+           "semestre" : 4
+       }
+],
+
+       "tcc_id" : "NULL"
+   },
+
+    {
+       "id": 25 ,
+       "nome" : "Bianca Reis",
+       "dep" : 5,
+       "chef_dep" : "null",
+       "dep_chefe" : "null",
+       "disciplinas" : [
+
+       {
+           "id" : 7,
+           "nome_disc" : "VISUALIZACAO DE DADOS",
+           "nome_curso" : "CIENCIA DA COMPUTACAO",
+           "ano" : 2015,
+           "semestre" : 4
+       },
+       {
+           "id" : 23,
+           "nome_disc" : "INTRODUCAO A COMPUTACAO",
+           "nome_curso" : "CIENCIA DE DADOS",
+           "ano" : 2016,
+           "semestre" : 1
+       },
+       {
+           "id" : 24,
+           "nome_disc" : "PRATICAS DE INOV",
+           "nome_curso" : "ENGENHARIA QUIMICA",
+           "ano" : 2018,
+           "semestre" : 2
+       }
+],
+
+       "tcc_id" : "NULL"
+   },
+
+    {
+       "id": 26 ,
+       "nome" : "Guilherme Barbosa",
+       "dep" : 7,
+       "chef_dep" : "null",
+       "dep_chefe" : "null",
+       "disciplinas" : [
+
+       {
+           "id" : 17,
+           "nome_disc" : "CALCULO VETORIAL",
+           "nome_curso" : "ADMINISTRACAO",
+           "ano" : 2010,
+           "semestre" : 1
+       },
+       {
+           "id" : 17,
+           "nome_disc" : "CALCULO VETORIAL",
+           "nome_curso" : "ENGENHARIA DE CIVIL",
+           "ano" : 2016,
+           "semestre" : 2
+       },
+       {
+           "id" : 3,
+           "nome_disc" : "MACROECONOMIA",
+           "nome_curso" : "ENGENHARIA MECANICA",
+           "ano" : 2022,
+           "semestre" : 1
+       },
+       {
+           "id" : 6,
+           "nome_disc" : "INTRODUÇÃO A MODELAGEM MAT",
+           "nome_curso" : "ENGENHARIA QUIMICA",
+           "ano" : 2023,
+           "semestre" : 4
+       }
+],
+
+       "tcc_id" : "NULL"
+   },
+
+    {
+       "id": 27 ,
+       "nome" : "Benjamin Santos",
+       "dep" : 3,
+       "chef_dep" : "null",
+       "dep_chefe" : "null",
+       "disciplinas" : [
+
+       {
+           "id" : 13,
+           "nome_disc" : "BANCO DE DADOS",
+           "nome_curso" : "ENGENHARIA MECANICA",
+           "ano" : 2018,
+           "semestre" : 4
+       },
+       {
+           "id" : 9,
+           "nome_disc" : "FUNDAMENTO DE ALGOR",
+           "nome_curso" : "ENGENHARIA QUIMICA",
+           "ano" : 2016,
+           "semestre" : 4
+       }
+],
+
+       "tcc_id" : 18
+   },
+
+    {
+       "id": 28 ,
+       "nome" : "Lucca Cavalcanti",
+       "dep" : 3,
+       "chef_dep" : "null",
+       "dep_chefe" : "null",
+       "disciplinas" : [
+
+       {
+           "id" : 1,
+           "nome_disc" : "FUNDAMENTOS DE ADM",
+           "nome_curso" : "ADMINISTRACAO",
+           "ano" : 2013,
+           "semestre" : 1
+       },
+       {
+           "id" : 16,
+           "nome_disc" : "DIGITAL EXP",
+           "nome_curso" : "ENGENHARIA QUIMICA",
+           "ano" : 2024,
+           "semestre" : 3
+       }
+],
+
+       "tcc_id" : 24
+   },
+
+    {
+       "id": 29 ,
+       "nome" : "Camila Barbosa",
+       "dep" : 10,
+       "chef_dep" : "null",
+       "dep_chefe" : "null",
+       "disciplinas" : [
+
+],
+
+       "tcc_id" : 23
+   },
+
+    {
+       "id": 30 ,
+       "nome" : "João Miguel Batista",
+       "dep" : 5,
+       "chef_dep" : 1,
+       "dep_chefe" : "DEPARTAMENTO 1",
+       "disciplinas" : [
+
+],
+
+       "tcc_id" : "NULL"
+   },
+
+    {
+       "id": 31 ,
+       "nome" : "Camila Martins",
+       "dep" : 9,
+       "chef_dep" : "null",
+       "dep_chefe" : "null",
+       "disciplinas" : [
+
+],
+
+       "tcc_id" : "NULL"
+   },
+
+    {
+       "id": 32 ,
+       "nome" : "Guilherme Freitas",
+       "dep" : 5,
+       "chef_dep" : "null",
+       "dep_chefe" : "null",
+       "disciplinas" : [
+
+       {
+           "id" : 2,
+           "nome_disc" : "BUSSINESS EXP",
+           "nome_curso" : "CIENCIA DE DADOS",
+           "ano" : 2012,
+           "semestre" : 2
+       },
+       {
+           "id" : 19,
+           "nome_disc" : "FISICA 1",
+           "nome_curso" : "ENGENHARIA DE CIVIL",
+           "ano" : 2005,
+           "semestre" : 4
+       },
+       {
+           "id" : 5,
+           "nome_disc" : "SOCIOLOGIA",
+           "nome_curso" : "ENGENHARIA MECANICA",
+           "ano" : 2007,
+           "semestre" : 4
+       }
+],
+
+       "tcc_id" : "NULL"
+   },
+
+    {
+       "id": 33 ,
+       "nome" : "Milena Carvalho",
+       "dep" : 3,
+       "chef_dep" : "null",
+       "dep_chefe" : "null",
+       "disciplinas" : [
+
+       {
+           "id" : 13,
+           "nome_disc" : "BANCO DE DADOS",
+           "nome_curso" : "ADMINISTRACAO",
+           "ano" : 2015,
+           "semestre" : 2
+       },
+       {
+           "id" : 10,
+           "nome_disc" : "DESENVOLVIMENTO WEB",
+           "nome_curso" : "ENGENHARIA MECANICA",
+           "ano" : 2011,
+           "semestre" : 4
+       }
+],
+
+       "tcc_id" : "NULL"
+   },
+
+    {
+       "id": 34 ,
+       "nome" : "Breno Freitas",
+       "dep" : 7,
+       "chef_dep" : "null",
+       "dep_chefe" : "null",
+       "disciplinas" : [
+
+       {
+           "id" : 15,
+           "nome_disc" : "PROGRAMACAO FULL",
+           "nome_curso" : "CIENCIA DA COMPUTACAO",
+           "ano" : 2010,
+           "semestre" : 2
+       },
+       {
+           "id" : 7,
+           "nome_disc" : "VISUALIZACAO DE DADOS",
+           "nome_curso" : "CIENCIA DE DADOS",
+           "ano" : 2004,
+           "semestre" : 4
+       },
+       {
+           "id" : 15,
+           "nome_disc" : "PROGRAMACAO FULL",
+           "nome_curso" : "ENGENHARIA ELETRICA",
+           "ano" : 2015,
+           "semestre" : 1
+       },
+       {
+           "id" : 20,
+           "nome_disc" : "LAB DE MAT",
+           "nome_curso" : "ENGENHARIA QUIMICA",
+           "ano" : 2003,
+           "semestre" : 3
+       }
+],
+
+       "tcc_id" : "NULL"
+   },
+
+    {
+       "id": 35 ,
+       "nome" : "Isadora Pereira",
+       "dep" : 4,
+       "chef_dep" : 6,
+       "dep_chefe" : "DEPARTAMENTO 6",
+       "disciplinas" : [
+
+       {
+           "id" : 8,
+           "nome_disc" : "CALCULO INTEGRAL",
+           "nome_curso" : "ENGENHARIA MECANICA",
+           "ano" : 2007,
+           "semestre" : 1
+       }
+],
+
+       "tcc_id" : 22
+   },
+
+    {
+       "id": 36 ,
+       "nome" : "Gabriela Ferreira",
+       "dep" : 4,
+       "chef_dep" : "null",
+       "dep_chefe" : "null",
+       "disciplinas" : [
+
+       {
+           "id" : 2,
+           "nome_disc" : "BUSSINESS EXP",
+           "nome_curso" : "ENGENHARIA DE CIVIL",
+           "ano" : 2017,
+           "semestre" : 1
+       },
+       {
+           "id" : 15,
+           "nome_disc" : "PROGRAMACAO FULL",
+           "nome_curso" : "ENGENHARIA DE CIVIL",
+           "ano" : 2011,
+           "semestre" : 3
+       },
+       {
+           "id" : 14,
+           "nome_disc" : "MODELAGEM MAT",
+           "nome_curso" : "ENGENHARIA ELETRICA",
+           "ano" : 2006,
+           "semestre" : 4
+       }
+],
+
+       "tcc_id" : 9
+   },
+
+    {
+       "id": 37 ,
+       "nome" : "Tomás Cavalcanti",
+       "dep" : 2,
+       "chef_dep" : "null",
+       "dep_chefe" : "null",
+       "disciplinas" : [
+
+       {
+           "id" : 4,
+           "nome_disc" : "LEITURA E PENSAMENTO",
+           "nome_curso" : "ADMINISTRACAO",
+           "ano" : 2006,
+           "semestre" : 3
+       },
+       {
+           "id" : 17,
+           "nome_disc" : "CALCULO VETORIAL",
+           "nome_curso" : "CIENCIA DA COMPUTACAO",
+           "ano" : 2009,
+           "semestre" : 3
+       },
+       {
+           "id" : 3,
+           "nome_disc" : "MACROECONOMIA",
+           "nome_curso" : "ENGENHARIA QUIMICA",
+           "ano" : 2013,
+           "semestre" : 3
+       }
+],
+
+       "tcc_id" : 15
+   },
+
+    {
+       "id": 38 ,
+       "nome" : "Sarah Barros",
+       "dep" : 7,
+       "chef_dep" : "null",
+       "dep_chefe" : "null",
+       "disciplinas" : [
+
+       {
+           "id" : 5,
+           "nome_disc" : "SOCIOLOGIA",
+           "nome_curso" : "CIENCIA DA COMPUTACAO",
+           "ano" : 2014,
+           "semestre" : 4
+       },
+       {
+           "id" : 11,
+           "nome_disc" : "SOCIOLOGIA",
+           "nome_curso" : "CIENCIA DE DADOS",
+           "ano" : 2016,
+           "semestre" : 2
+       }
+],
+
+       "tcc_id" : "NULL"
+   },
+
+    {
+       "id": 39 ,
+       "nome" : "Murilo Borges",
+       "dep" : 9,
+       "chef_dep" : "null",
+       "dep_chefe" : "null",
+       "disciplinas" : [
+
+       {
+           "id" : 8,
+           "nome_disc" : "CALCULO INTEGRAL",
+           "nome_curso" : "ENGENHARIA MECANICA",
+           "ano" : 2010,
+           "semestre" : 3
+       }
+],
+
+       "tcc_id" : "NULL"
+   },
+
+    {
+       "id": 40 ,
+       "nome" : "Caio Moreira",
+       "dep" : 6,
+       "chef_dep" : "null",
+       "dep_chefe" : "null",
+       "disciplinas" : [
+
+       {
+           "id" : 4,
+           "nome_disc" : "LEITURA E PENSAMENTO",
+           "nome_curso" : "ENGENHARIA ELETRICA",
+           "ano" : 2013,
+           "semestre" : 3
+       },
+       {
+           "id" : 4,
+           "nome_disc" : "LEITURA E PENSAMENTO",
+           "nome_curso" : "ENGENHARIA QUIMICA",
+           "ano" : 2002,
+           "semestre" : 4
+       }
+],
+
+       "tcc_id" : 25
+   },
+
+    {
+       "id": 41 ,
+       "nome" : "Lívia Rodrigues",
+       "dep" : 1,
+       "chef_dep" : "null",
+       "dep_chefe" : "null",
+       "disciplinas" : [
+
+],
+
+       "tcc_id" : 11
+   },
+
+    {
+       "id": 42 ,
+       "nome" : "Davi Lucca Rocha",
+       "dep" : 1,
+       "chef_dep" : "null",
+       "dep_chefe" : "null",
+       "disciplinas" : [
+
+       {
+           "id" : 9,
+           "nome_disc" : "FUNDAMENTO DE ALGOR",
+           "nome_curso" : "ENGENHARIA ELETRICA",
+           "ano" : 2018,
+           "semestre" : 3
+       }
+],
+
+       "tcc_id" : "NULL"
+   },
+
+    {
+       "id": 43 ,
+       "nome" : "Emily Carvalho",
+       "dep" : 7,
+       "chef_dep" : "null",
+       "dep_chefe" : "null",
+       "disciplinas" : [
+
+       {
+           "id" : 11,
+           "nome_disc" : "SOCIOLOGIA",
+           "nome_curso" : "CIENCIA DA COMPUTACAO",
+           "ano" : 2008,
+           "semestre" : 1
+       },
+       {
+           "id" : 13,
+           "nome_disc" : "BANCO DE DADOS",
+           "nome_curso" : "ENGENHARIA ELETRICA",
+           "ano" : 2011,
+           "semestre" : 4
+       },
+       {
+           "id" : 14,
+           "nome_disc" : "MODELAGEM MAT",
+           "nome_curso" : "ENGENHARIA ELETRICA",
+           "ano" : 2006,
+           "semestre" : 1
+       },
+       {
+           "id" : 14,
+           "nome_disc" : "MODELAGEM MAT",
+           "nome_curso" : "ENGENHARIA QUIMICA",
+           "ano" : 2012,
+           "semestre" : 3
+       }
+],
+
+       "tcc_id" : "NULL"
+   },
+
+    {
+       "id": 44 ,
+       "nome" : "Giovanna Araújo",
+       "dep" : 6,
+       "chef_dep" : "null",
+       "dep_chefe" : "null",
+       "disciplinas" : [
+
+       {
+           "id" : 5,
+           "nome_disc" : "SOCIOLOGIA",
+           "nome_curso" : "CIENCIA DA COMPUTACAO",
+           "ano" : 2010,
+           "semestre" : 3
+       },
+       {
+           "id" : 18,
+           "nome_disc" : "DESENHO TECNICO",
+           "nome_curso" : "ENGENHARIA MECANICA",
+           "ano" : 2010,
+           "semestre" : 4
+       }
+],
+
+       "tcc_id" : "NULL"
+   },
+
+    {
+       "id": 45 ,
+       "nome" : "Ana Ferreira",
+       "dep" : 5,
+       "chef_dep" : "null",
+       "dep_chefe" : "null",
+       "disciplinas" : [
+
+       {
+           "id" : 5,
+           "nome_disc" : "SOCIOLOGIA",
+           "nome_curso" : "ADMINISTRACAO",
+           "ano" : 2017,
+           "semestre" : 2
+       },
+       {
+           "id" : 20,
+           "nome_disc" : "LAB DE MAT",
+           "nome_curso" : "ADMINISTRACAO",
+           "ano" : 2005,
+           "semestre" : 1
+       },
+       {
+           "id" : 20,
+           "nome_disc" : "LAB DE MAT",
+           "nome_curso" : "ADMINISTRACAO",
+           "ano" : 2006,
+           "semestre" : 2
+       },
+       {
+           "id" : 16,
+           "nome_disc" : "DIGITAL EXP",
+           "nome_curso" : "CIENCIA DA COMPUTACAO",
+           "ano" : 2021,
+           "semestre" : 3
+       },
+       {
+           "id" : 14,
+           "nome_disc" : "MODELAGEM MAT",
+           "nome_curso" : "ENGENHARIA MECANICA",
+           "ano" : 2010,
+           "semestre" : 4
+       }
+],
+
+       "tcc_id" : 7
+   },
+
+    {
+       "id": 46 ,
+       "nome" : "Davi Cardoso",
+       "dep" : 5,
+       "chef_dep" : 7,
+       "dep_chefe" : "DEPARTAMENTO 7",
+       "disciplinas" : [
+
+],
+
+       "tcc_id" : 1
+   },
+
+    {
+       "id": 47 ,
+       "nome" : "Vinícius Melo",
+       "dep" : 4,
+       "chef_dep" : "null",
+       "dep_chefe" : "null",
+       "disciplinas" : [
+
+       {
+           "id" : 4,
+           "nome_disc" : "LEITURA E PENSAMENTO",
+           "nome_curso" : "CIENCIA DA COMPUTACAO",
+           "ano" : 2014,
+           "semestre" : 2
+       },
+       {
+           "id" : 7,
+           "nome_disc" : "VISUALIZACAO DE DADOS",
+           "nome_curso" : "ENGENHARIA ELETRICA",
+           "ano" : 2014,
+           "semestre" : 4
+       },
+       {
+           "id" : 13,
+           "nome_disc" : "BANCO DE DADOS",
+           "nome_curso" : "ENGENHARIA ELETRICA",
+           "ano" : 2017,
+           "semestre" : 2
+       }
+],
+
+       "tcc_id" : "NULL"
+   },
+
+    {
+       "id": 48 ,
+       "nome" : "Diego Ramos",
+       "dep" : 9,
+       "chef_dep" : "null",
+       "dep_chefe" : "null",
+       "disciplinas" : [
+
+       {
+           "id" : 13,
+           "nome_disc" : "BANCO DE DADOS",
+           "nome_curso" : "CIENCIA DA COMPUTACAO",
+           "ano" : 2023,
+           "semestre" : 1
+       },
+       {
+           "id" : 11,
+           "nome_disc" : "SOCIOLOGIA",
+           "nome_curso" : "CIENCIA DE DADOS",
+           "ano" : 2023,
+           "semestre" : 1
+       }
+],
+
+       "tcc_id" : "NULL"
+   }]

@@ -1,0 +1,33 @@
+Professor:
+    id_professor = id unico do Professor
+    nome = nome do Professor
+    dep = id do departamento que professor pertence
+    chef_dep = se ele for chefe do departamento, ele terá o id do departamento, se não, terá NULL
+    disciplinas = para todas as disciplinas que o professor da.
+        id  = id da disciplina
+        nome_disc = nome da disciplina
+        nome_curso = nome do curso
+        ano = ano que o professor deu a disciplina
+        semestre = semestre que o professor deu a disciplina
+
+Matriz:
+    curso = todos os cursos disponiveis
+        name = nome do curso
+        id= id do curso
+    disciplina = todas as disciplinas de tal curso
+        id = id disciplina
+        name = nome da disciplina
+        semestre = semestre que a disciplina é cursada
+
+Alunos:
+    id = id do Aluno
+    nome = nome do Aluno
+    curso = curso que o aluno cursa
+        id_curso = id do curso
+        curso = nome do curso
+    historico = historico de aluno
+        id_disc = id da disciplina cursada pelo aluno
+        nome_disc = nome da disciplina cursada
+        ano_cursado = ano que o aluno cursou a disciplina
+        semstre = semestre ano_cursado
+        nota_fin = nota final do aluno no semestre para tal disciplina

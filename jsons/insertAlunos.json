@@ -1,0 +1,3122 @@
+[
+
+    {
+       "id": 1,
+       "nome": "Aurora Fonseca",
+       "curso": {
+           "id_curso": 7,
+           "curso": "ENGENHARIA QUIMICA"
+       },
+       "historico": [
+
+           {
+               "id_disc": 5,
+               "nome_disc": "SOCIOLOGIA",
+               "ano_cursado": 2023,
+               "semestre" : 2,
+               "nota_fin": 5
+           }
+       ,
+           {
+               "id_disc": 8,
+               "nome_disc": "CALCULO INTEGRAL",
+               "ano_cursado": 2023,
+               "semestre" : 2,
+               "nota_fin": 5
+           }
+       ,
+           {
+               "id_disc": 17,
+               "nome_disc": "CALCULO VETORIAL",
+               "ano_cursado": 2023,
+               "semestre" : 2,
+               "nota_fin": 7
+           }
+       ,
+           {
+               "id_disc": 18,
+               "nome_disc": "DESENHO TECNICO",
+               "ano_cursado": 2023,
+               "semestre" : 2,
+               "nota_fin": 10
+           }
+       ,
+           {
+               "id_disc": 19,
+               "nome_disc": "FISICA 1",
+               "ano_cursado": 2023,
+               "semestre" : 2,
+               "nota_fin": 7
+           }
+       ,
+           {
+               "id_disc": 20,
+               "nome_disc": "LAB DE MAT",
+               "ano_cursado": 2023,
+               "semestre" : 2,
+               "nota_fin": 5
+           }
+
+],
+
+       "tcc": {
+           "id_tcc": 22
+       }
+   },
+
+    {
+       "id": 2,
+       "nome": "Júlia Almeida",
+       "curso": {
+           "id_curso": 7,
+           "curso": "ENGENHARIA QUIMICA"
+       },
+       "historico": [
+
+           {
+               "id_disc": 5,
+               "nome_disc": "SOCIOLOGIA",
+               "ano_cursado": 2011,
+               "semestre" : 4,
+               "nota_fin": 9
+           }
+       ,
+           {
+               "id_disc": 8,
+               "nome_disc": "CALCULO INTEGRAL",
+               "ano_cursado": 2011,
+               "semestre" : 4,
+               "nota_fin": 5
+           }
+       ,
+           {
+               "id_disc": 17,
+               "nome_disc": "CALCULO VETORIAL",
+               "ano_cursado": 2011,
+               "semestre" : 4,
+               "nota_fin": 2
+           }
+       ,
+           {
+               "id_disc": 18,
+               "nome_disc": "DESENHO TECNICO",
+               "ano_cursado": 2011,
+               "semestre" : 4,
+               "nota_fin": 9
+           }
+       ,
+           {
+               "id_disc": 19,
+               "nome_disc": "FISICA 1",
+               "ano_cursado": 2011,
+               "semestre" : 4,
+               "nota_fin": 3
+           }
+       ,
+           {
+               "id_disc": 20,
+               "nome_disc": "LAB DE MAT",
+               "ano_cursado": 2011,
+               "semestre" : 4,
+               "nota_fin": 5
+           }
+
+],
+
+       "tcc": {
+           "id_tcc": 21
+       }
+   },
+
+    {
+       "id": 3,
+       "nome": "Ana Pereira",
+       "curso": {
+           "id_curso": 4,
+           "curso": "ENGENHARIA DE CIVIL"
+       },
+       "historico": [
+
+           {
+               "id_disc": 8,
+               "nome_disc": "CALCULO INTEGRAL",
+               "ano_cursado": 2014,
+               "semestre" : 4,
+               "nota_fin": 10
+           }
+       ,
+           {
+               "id_disc": 17,
+               "nome_disc": "CALCULO VETORIAL",
+               "ano_cursado": 2014,
+               "semestre" : 4,
+               "nota_fin": 0
+           }
+       ,
+           {
+               "id_disc": 18,
+               "nome_disc": "DESENHO TECNICO",
+               "ano_cursado": 2014,
+               "semestre" : 4,
+               "nota_fin": 5
+           }
+       ,
+           {
+               "id_disc": 19,
+               "nome_disc": "FISICA 1",
+               "ano_cursado": 2014,
+               "semestre" : 4,
+               "nota_fin": 7
+           }
+       ,
+           {
+               "id_disc": 20,
+               "nome_disc": "LAB DE MAT",
+               "ano_cursado": 2014,
+               "semestre" : 4,
+               "nota_fin": 1
+           }
+       ,
+           {
+               "id_disc": 21,
+               "nome_disc": "PRATICA DE INOVACAO",
+               "ano_cursado": 2014,
+               "semestre" : 4,
+               "nota_fin": 3
+           }
+
+],
+
+       "tcc": {
+           "id_tcc": 6
+       }
+   },
+
+    {
+       "id": 4,
+       "nome": "Isis Borges",
+       "curso": {
+           "id_curso": 4,
+           "curso": "ENGENHARIA DE CIVIL"
+       },
+       "historico": [
+
+           {
+               "id_disc": 8,
+               "nome_disc": "CALCULO INTEGRAL",
+               "ano_cursado": 2016,
+               "semestre" : 3,
+               "nota_fin": 2
+           }
+       ,
+           {
+               "id_disc": 17,
+               "nome_disc": "CALCULO VETORIAL",
+               "ano_cursado": 2016,
+               "semestre" : 3,
+               "nota_fin": 10
+           }
+       ,
+           {
+               "id_disc": 18,
+               "nome_disc": "DESENHO TECNICO",
+               "ano_cursado": 2016,
+               "semestre" : 3,
+               "nota_fin": 3
+           }
+       ,
+           {
+               "id_disc": 19,
+               "nome_disc": "FISICA 1",
+               "ano_cursado": 2016,
+               "semestre" : 3,
+               "nota_fin": 6
+           }
+       ,
+           {
+               "id_disc": 20,
+               "nome_disc": "LAB DE MAT",
+               "ano_cursado": 2016,
+               "semestre" : 3,
+               "nota_fin": 2
+           }
+       ,
+           {
+               "id_disc": 21,
+               "nome_disc": "PRATICA DE INOVACAO",
+               "ano_cursado": 2016,
+               "semestre" : 3,
+               "nota_fin": 2
+           }
+
+],
+
+       "tcc": {
+           "id_tcc": 18
+       }
+   },
+
+    {
+       "id": 5,
+       "nome": "Pietro Cavalcanti",
+       "curso": {
+           "id_curso": 1,
+           "curso": "ADMINISTRACAO"
+       },
+       "historico": [
+
+           {
+               "id_disc": 1,
+               "nome_disc": "FUNDAMENTOS DE ADM",
+               "ano_cursado": 2023,
+               "semestre" : 1,
+               "nota_fin": 5
+           }
+       ,
+           {
+               "id_disc": 2,
+               "nome_disc": "BUSSINESS EXP",
+               "ano_cursado": 2023,
+               "semestre" : 1,
+               "nota_fin": 5
+           }
+       ,
+           {
+               "id_disc": 3,
+               "nome_disc": "MACROECONOMIA",
+               "ano_cursado": 2023,
+               "semestre" : 1,
+               "nota_fin": 5
+           }
+       ,
+           {
+               "id_disc": 4,
+               "nome_disc": "LEITURA E PENSAMENTO",
+               "ano_cursado": 2023,
+               "semestre" : 1,
+               "nota_fin": 5
+           }
+       ,
+           {
+               "id_disc": 5,
+               "nome_disc": "SOCIOLOGIA",
+               "ano_cursado": 2023,
+               "semestre" : 1,
+               "nota_fin": 5
+           }
+       ,
+           {
+               "id_disc": 6,
+               "nome_disc": "INTRODUÇÃO A MODELAGEM MAT",
+               "ano_cursado": 2023,
+               "semestre" : 1,
+               "nota_fin": 7
+           }
+       ,
+           {
+               "id_disc": 7,
+               "nome_disc": "VISUALIZACAO DE DADOS",
+               "ano_cursado": 2023,
+               "semestre" : 1,
+               "nota_fin": 5
+           }
+
+],
+
+       "tcc": {
+           "id_tcc": 10
+       }
+   },
+
+    {
+       "id": 6,
+       "nome": "Sophia Neves",
+       "curso": {
+           "id_curso": 3,
+           "curso": "CIENCIA DE DADOS"
+       },
+       "historico": [
+
+           {
+               "id_disc": 5,
+               "nome_disc": "SOCIOLOGIA",
+               "ano_cursado": 2016,
+               "semestre" : 3,
+               "nota_fin": 7
+           }
+       ,
+           {
+               "id_disc": 9,
+               "nome_disc": "FUNDAMENTO DE ALGOR",
+               "ano_cursado": 2016,
+               "semestre" : 3,
+               "nota_fin": 4
+           }
+       ,
+           {
+               "id_disc": 13,
+               "nome_disc": "BANCO DE DADOS",
+               "ano_cursado": 2016,
+               "semestre" : 3,
+               "nota_fin": 8
+           }
+       ,
+           {
+               "id_disc": 14,
+               "nome_disc": "MODELAGEM MAT",
+               "ano_cursado": 2016,
+               "semestre" : 3,
+               "nota_fin": 1
+           }
+       ,
+           {
+               "id_disc": 15,
+               "nome_disc": "PROGRAMACAO FULL",
+               "ano_cursado": 2016,
+               "semestre" : 3,
+               "nota_fin": 0
+           }
+       ,
+           {
+               "id_disc": 16,
+               "nome_disc": "DIGITAL EXP",
+               "ano_cursado": 2016,
+               "semestre" : 3,
+               "nota_fin": 10
+           }
+
+],
+
+       "tcc": {
+           "id_tcc": 14
+       }
+   },
+
+    {
+       "id": 7,
+       "nome": "Aurora Cardoso",
+       "curso": {
+           "id_curso": 5,
+           "curso": "ENGENHARIA ELETRICA"
+       },
+       "historico": [
+
+           {
+               "id_disc": 5,
+               "nome_disc": "SOCIOLOGIA",
+               "ano_cursado": 2012,
+               "semestre" : 1,
+               "nota_fin": 8
+           }
+       ,
+           {
+               "id_disc": 8,
+               "nome_disc": "CALCULO INTEGRAL",
+               "ano_cursado": 2012,
+               "semestre" : 1,
+               "nota_fin": 4
+           }
+       ,
+           {
+               "id_disc": 18,
+               "nome_disc": "DESENHO TECNICO",
+               "ano_cursado": 2012,
+               "semestre" : 1,
+               "nota_fin": 6
+           }
+       ,
+           {
+               "id_disc": 20,
+               "nome_disc": "LAB DE MAT",
+               "ano_cursado": 2012,
+               "semestre" : 1,
+               "nota_fin": 0
+           }
+       ,
+           {
+               "id_disc": 21,
+               "nome_disc": "PRATICA DE INOVACAO",
+               "ano_cursado": 2012,
+               "semestre" : 1,
+               "nota_fin": 7
+           }
+       ,
+           {
+               "id_disc": 22,
+               "nome_disc": "ELETRONICA GERAL",
+               "ano_cursado": 2012,
+               "semestre" : 1,
+               "nota_fin": 0
+           }
+       ,
+           {
+               "id_disc": 23,
+               "nome_disc": "INTRODUCAO A COMPUTACAO",
+               "ano_cursado": 2012,
+               "semestre" : 1,
+               "nota_fin": 6
+           }
+
+],
+
+       "tcc": {
+           "id_tcc": 6
+       }
+   },
+
+    {
+       "id": 8,
+       "nome": "Luiza Almeida",
+       "curso": {
+           "id_curso": 7,
+           "curso": "ENGENHARIA QUIMICA"
+       },
+       "historico": [
+
+           {
+               "id_disc": 5,
+               "nome_disc": "SOCIOLOGIA",
+               "ano_cursado": 2021,
+               "semestre" : 1,
+               "nota_fin": 8
+           }
+       ,
+           {
+               "id_disc": 8,
+               "nome_disc": "CALCULO INTEGRAL",
+               "ano_cursado": 2021,
+               "semestre" : 1,
+               "nota_fin": 0
+           }
+       ,
+           {
+               "id_disc": 17,
+               "nome_disc": "CALCULO VETORIAL",
+               "ano_cursado": 2021,
+               "semestre" : 1,
+               "nota_fin": 3
+           }
+       ,
+           {
+               "id_disc": 18,
+               "nome_disc": "DESENHO TECNICO",
+               "ano_cursado": 2021,
+               "semestre" : 1,
+               "nota_fin": 2
+           }
+       ,
+           {
+               "id_disc": 19,
+               "nome_disc": "FISICA 1",
+               "ano_cursado": 2021,
+               "semestre" : 1,
+               "nota_fin": 5
+           }
+       ,
+           {
+               "id_disc": 20,
+               "nome_disc": "LAB DE MAT",
+               "ano_cursado": 2021,
+               "semestre" : 1,
+               "nota_fin": 6
+           }
+
+],
+
+       "tcc": {
+           "id_tcc": 24
+       }
+   },
+
+    {
+       "id": 9,
+       "nome": "Eduardo Araújo",
+       "curso": {
+           "id_curso": 5,
+           "curso": "ENGENHARIA ELETRICA"
+       },
+       "historico": [
+
+           {
+               "id_disc": 5,
+               "nome_disc": "SOCIOLOGIA",
+               "ano_cursado": 2023,
+               "semestre" : 1,
+               "nota_fin": 2
+           }
+       ,
+           {
+               "id_disc": 8,
+               "nome_disc": "CALCULO INTEGRAL",
+               "ano_cursado": 2023,
+               "semestre" : 1,
+               "nota_fin": 0
+           }
+       ,
+           {
+               "id_disc": 18,
+               "nome_disc": "DESENHO TECNICO",
+               "ano_cursado": 2023,
+               "semestre" : 1,
+               "nota_fin": 10
+           }
+       ,
+           {
+               "id_disc": 20,
+               "nome_disc": "LAB DE MAT",
+               "ano_cursado": 2023,
+               "semestre" : 1,
+               "nota_fin": 7
+           }
+       ,
+           {
+               "id_disc": 21,
+               "nome_disc": "PRATICA DE INOVACAO",
+               "ano_cursado": 2023,
+               "semestre" : 1,
+               "nota_fin": 8
+           }
+       ,
+           {
+               "id_disc": 22,
+               "nome_disc": "ELETRONICA GERAL",
+               "ano_cursado": 2023,
+               "semestre" : 1,
+               "nota_fin": 0
+           }
+       ,
+           {
+               "id_disc": 23,
+               "nome_disc": "INTRODUCAO A COMPUTACAO",
+               "ano_cursado": 2023,
+               "semestre" : 1,
+               "nota_fin": 2
+           }
+
+],
+
+       "tcc": {
+           "id_tcc": 2
+       }
+   },
+
+    {
+       "id": 10,
+       "nome": "Pedro Cruz",
+       "curso": {
+           "id_curso": 1,
+           "curso": "ADMINISTRACAO"
+       },
+       "historico": [
+
+           {
+               "id_disc": 1,
+               "nome_disc": "FUNDAMENTOS DE ADM",
+               "ano_cursado": 2016,
+               "semestre" : 4,
+               "nota_fin": 9
+           }
+       ,
+           {
+               "id_disc": 2,
+               "nome_disc": "BUSSINESS EXP",
+               "ano_cursado": 2016,
+               "semestre" : 4,
+               "nota_fin": 5
+           }
+       ,
+           {
+               "id_disc": 3,
+               "nome_disc": "MACROECONOMIA",
+               "ano_cursado": 2016,
+               "semestre" : 4,
+               "nota_fin": 5
+           }
+       ,
+           {
+               "id_disc": 4,
+               "nome_disc": "LEITURA E PENSAMENTO",
+               "ano_cursado": 2016,
+               "semestre" : 4,
+               "nota_fin": 5
+           }
+       ,
+           {
+               "id_disc": 5,
+               "nome_disc": "SOCIOLOGIA",
+               "ano_cursado": 2016,
+               "semestre" : 4,
+               "nota_fin": 5
+           }
+       ,
+           {
+               "id_disc": 6,
+               "nome_disc": "INTRODUÇÃO A MODELAGEM MAT",
+               "ano_cursado": 2016,
+               "semestre" : 4,
+               "nota_fin": 5
+           }
+       ,
+           {
+               "id_disc": 7,
+               "nome_disc": "VISUALIZACAO DE DADOS",
+               "ano_cursado": 2016,
+               "semestre" : 4,
+               "nota_fin": 10
+           }
+
+],
+
+       "tcc": {
+           "id_tcc": 19
+       }
+   },
+
+    {
+       "id": 11,
+       "nome": "Analu Martins",
+       "curso": {
+           "id_curso": 6,
+           "curso": "ENGENHARIA MECANICA"
+       },
+       "historico": [
+
+           {
+               "id_disc": 5,
+               "nome_disc": "SOCIOLOGIA",
+               "ano_cursado": 2019,
+               "semestre" : 2,
+               "nota_fin": 4
+           }
+       ,
+           {
+               "id_disc": 8,
+               "nome_disc": "CALCULO INTEGRAL",
+               "ano_cursado": 2019,
+               "semestre" : 2,
+               "nota_fin": 1
+           }
+       ,
+           {
+               "id_disc": 18,
+               "nome_disc": "DESENHO TECNICO",
+               "ano_cursado": 2019,
+               "semestre" : 2,
+               "nota_fin": 10
+           }
+       ,
+           {
+               "id_disc": 20,
+               "nome_disc": "LAB DE MAT",
+               "ano_cursado": 2019,
+               "semestre" : 2,
+               "nota_fin": 6
+           }
+       ,
+           {
+               "id_disc": 21,
+               "nome_disc": "PRATICA DE INOVACAO",
+               "ano_cursado": 2019,
+               "semestre" : 2,
+               "nota_fin": 0
+           }
+       ,
+           {
+               "id_disc": 22,
+               "nome_disc": "ELETRONICA GERAL",
+               "ano_cursado": 2019,
+               "semestre" : 2,
+               "nota_fin": 1
+           }
+       ,
+           {
+               "id_disc": 23,
+               "nome_disc": "INTRODUCAO A COMPUTACAO",
+               "ano_cursado": 2019,
+               "semestre" : 2,
+               "nota_fin": 3
+           }
+
+],
+
+       "tcc": {
+           "id_tcc": 2
+       }
+   },
+
+    {
+       "id": 12,
+       "nome": "Clara Melo",
+       "curso": {
+           "id_curso": 7,
+           "curso": "ENGENHARIA QUIMICA"
+       },
+       "historico": [
+
+           {
+               "id_disc": 5,
+               "nome_disc": "SOCIOLOGIA",
+               "ano_cursado": 2010,
+               "semestre" : 3,
+               "nota_fin": 2
+           }
+       ,
+           {
+               "id_disc": 8,
+               "nome_disc": "CALCULO INTEGRAL",
+               "ano_cursado": 2010,
+               "semestre" : 3,
+               "nota_fin": 10
+           }
+       ,
+           {
+               "id_disc": 17,
+               "nome_disc": "CALCULO VETORIAL",
+               "ano_cursado": 2010,
+               "semestre" : 3,
+               "nota_fin": 6
+           }
+       ,
+           {
+               "id_disc": 18,
+               "nome_disc": "DESENHO TECNICO",
+               "ano_cursado": 2010,
+               "semestre" : 3,
+               "nota_fin": 10
+           }
+       ,
+           {
+               "id_disc": 19,
+               "nome_disc": "FISICA 1",
+               "ano_cursado": 2010,
+               "semestre" : 3,
+               "nota_fin": 3
+           }
+       ,
+           {
+               "id_disc": 20,
+               "nome_disc": "LAB DE MAT",
+               "ano_cursado": 2010,
+               "semestre" : 3,
+               "nota_fin": 7
+           }
+
+],
+
+       "tcc": {
+           "id_tcc": 5
+       }
+   },
+
+    {
+       "id": 13,
+       "nome": "Maria Clara Rocha",
+       "curso": {
+           "id_curso": 7,
+           "curso": "ENGENHARIA QUIMICA"
+       },
+       "historico": [
+
+           {
+               "id_disc": 5,
+               "nome_disc": "SOCIOLOGIA",
+               "ano_cursado": 2021,
+               "semestre" : 1,
+               "nota_fin": 0
+           }
+       ,
+           {
+               "id_disc": 8,
+               "nome_disc": "CALCULO INTEGRAL",
+               "ano_cursado": 2021,
+               "semestre" : 1,
+               "nota_fin": 6
+           }
+       ,
+           {
+               "id_disc": 17,
+               "nome_disc": "CALCULO VETORIAL",
+               "ano_cursado": 2021,
+               "semestre" : 1,
+               "nota_fin": 4
+           }
+       ,
+           {
+               "id_disc": 18,
+               "nome_disc": "DESENHO TECNICO",
+               "ano_cursado": 2021,
+               "semestre" : 1,
+               "nota_fin": 2
+           }
+       ,
+           {
+               "id_disc": 19,
+               "nome_disc": "FISICA 1",
+               "ano_cursado": 2021,
+               "semestre" : 1,
+               "nota_fin": 10
+           }
+       ,
+           {
+               "id_disc": 20,
+               "nome_disc": "LAB DE MAT",
+               "ano_cursado": 2021,
+               "semestre" : 1,
+               "nota_fin": 10
+           }
+
+],
+
+       "tcc": {
+           "id_tcc": 17
+       }
+   },
+
+    {
+       "id": 14,
+       "nome": "Arthur Gonçalves",
+       "curso": {
+           "id_curso": 3,
+           "curso": "CIENCIA DE DADOS"
+       },
+       "historico": [
+
+           {
+               "id_disc": 5,
+               "nome_disc": "SOCIOLOGIA",
+               "ano_cursado": 2014,
+               "semestre" : 1,
+               "nota_fin": 7
+           }
+       ,
+           {
+               "id_disc": 9,
+               "nome_disc": "FUNDAMENTO DE ALGOR",
+               "ano_cursado": 2014,
+               "semestre" : 1,
+               "nota_fin": 2
+           }
+       ,
+           {
+               "id_disc": 13,
+               "nome_disc": "BANCO DE DADOS",
+               "ano_cursado": 2014,
+               "semestre" : 1,
+               "nota_fin": 2
+           }
+       ,
+           {
+               "id_disc": 14,
+               "nome_disc": "MODELAGEM MAT",
+               "ano_cursado": 2014,
+               "semestre" : 1,
+               "nota_fin": 8
+           }
+       ,
+           {
+               "id_disc": 15,
+               "nome_disc": "PROGRAMACAO FULL",
+               "ano_cursado": 2014,
+               "semestre" : 1,
+               "nota_fin": 3
+           }
+       ,
+           {
+               "id_disc": 16,
+               "nome_disc": "DIGITAL EXP",
+               "ano_cursado": 2014,
+               "semestre" : 1,
+               "nota_fin": 2
+           }
+
+],
+
+       "tcc": {
+           "id_tcc": 4
+       }
+   },
+
+    {
+       "id": 15,
+       "nome": "Murilo Araújo",
+       "curso": {
+           "id_curso": 2,
+           "curso": "CIENCIA DA COMPUTACAO"
+       },
+       "historico": [
+
+           {
+               "id_disc": 5,
+               "nome_disc": "SOCIOLOGIA",
+               "ano_cursado": 2015,
+               "semestre" : 3,
+               "nota_fin": 8
+           }
+       ,
+           {
+               "id_disc": 8,
+               "nome_disc": "CALCULO INTEGRAL",
+               "ano_cursado": 2015,
+               "semestre" : 3,
+               "nota_fin": 5
+           }
+       ,
+           {
+               "id_disc": 9,
+               "nome_disc": "FUNDAMENTO DE ALGOR",
+               "ano_cursado": 2015,
+               "semestre" : 3,
+               "nota_fin": 5
+           }
+       ,
+           {
+               "id_disc": 10,
+               "nome_disc": "DESENVOLVIMENTO WEB",
+               "ano_cursado": 2015,
+               "semestre" : 3,
+               "nota_fin": 5
+           }
+       ,
+           {
+               "id_disc": 12,
+               "nome_disc": "COMUNICAO E EXPRESS",
+               "ano_cursado": 2015,
+               "semestre" : 3,
+               "nota_fin": 5
+           }
+
+],
+
+       "tcc": {
+           "id_tcc": 4
+       }
+   },
+
+    {
+       "id": 16,
+       "nome": "Diego Araújo",
+       "curso": {
+           "id_curso": 3,
+           "curso": "CIENCIA DE DADOS"
+       },
+       "historico": [
+
+           {
+               "id_disc": 5,
+               "nome_disc": "SOCIOLOGIA",
+               "ano_cursado": 2012,
+               "semestre" : 2,
+               "nota_fin": 4
+           }
+       ,
+           {
+               "id_disc": 9,
+               "nome_disc": "FUNDAMENTO DE ALGOR",
+               "ano_cursado": 2012,
+               "semestre" : 2,
+               "nota_fin": 6
+           }
+       ,
+           {
+               "id_disc": 13,
+               "nome_disc": "BANCO DE DADOS",
+               "ano_cursado": 2012,
+               "semestre" : 2,
+               "nota_fin": 0
+           }
+       ,
+           {
+               "id_disc": 14,
+               "nome_disc": "MODELAGEM MAT",
+               "ano_cursado": 2012,
+               "semestre" : 2,
+               "nota_fin": 0
+           }
+       ,
+           {
+               "id_disc": 15,
+               "nome_disc": "PROGRAMACAO FULL",
+               "ano_cursado": 2012,
+               "semestre" : 2,
+               "nota_fin": 7
+           }
+       ,
+           {
+               "id_disc": 16,
+               "nome_disc": "DIGITAL EXP",
+               "ano_cursado": 2012,
+               "semestre" : 2,
+               "nota_fin": 8
+           }
+
+],
+
+       "tcc": {
+           "id_tcc": 4
+       }
+   },
+
+    {
+       "id": 17,
+       "nome": "Gabriela Melo",
+       "curso": {
+           "id_curso": 5,
+           "curso": "ENGENHARIA ELETRICA"
+       },
+       "historico": [
+
+           {
+               "id_disc": 5,
+               "nome_disc": "SOCIOLOGIA",
+               "ano_cursado": 2019,
+               "semestre" : 2,
+               "nota_fin": 1
+           }
+       ,
+           {
+               "id_disc": 8,
+               "nome_disc": "CALCULO INTEGRAL",
+               "ano_cursado": 2019,
+               "semestre" : 2,
+               "nota_fin": 5
+           }
+       ,
+           {
+               "id_disc": 18,
+               "nome_disc": "DESENHO TECNICO",
+               "ano_cursado": 2019,
+               "semestre" : 2,
+               "nota_fin": 0
+           }
+       ,
+           {
+               "id_disc": 20,
+               "nome_disc": "LAB DE MAT",
+               "ano_cursado": 2019,
+               "semestre" : 2,
+               "nota_fin": 2
+           }
+       ,
+           {
+               "id_disc": 21,
+               "nome_disc": "PRATICA DE INOVACAO",
+               "ano_cursado": 2019,
+               "semestre" : 2,
+               "nota_fin": 10
+           }
+       ,
+           {
+               "id_disc": 22,
+               "nome_disc": "ELETRONICA GERAL",
+               "ano_cursado": 2019,
+               "semestre" : 2,
+               "nota_fin": 4
+           }
+       ,
+           {
+               "id_disc": 23,
+               "nome_disc": "INTRODUCAO A COMPUTACAO",
+               "ano_cursado": 2019,
+               "semestre" : 2,
+               "nota_fin": 3
+           }
+
+],
+
+       "tcc": {
+           "id_tcc": 4
+       }
+   },
+
+    {
+       "id": 18,
+       "nome": "Emanuelly Borges",
+       "curso": {
+           "id_curso": 1,
+           "curso": "ADMINISTRACAO"
+       },
+       "historico": [
+
+           {
+               "id_disc": 1,
+               "nome_disc": "FUNDAMENTOS DE ADM",
+               "ano_cursado": 2016,
+               "semestre" : 2,
+               "nota_fin": 10
+           }
+       ,
+           {
+               "id_disc": 2,
+               "nome_disc": "BUSSINESS EXP",
+               "ano_cursado": 2016,
+               "semestre" : 2,
+               "nota_fin": 1
+           }
+       ,
+           {
+               "id_disc": 3,
+               "nome_disc": "MACROECONOMIA",
+               "ano_cursado": 2016,
+               "semestre" : 2,
+               "nota_fin": 10
+           }
+       ,
+           {
+               "id_disc": 4,
+               "nome_disc": "LEITURA E PENSAMENTO",
+               "ano_cursado": 2016,
+               "semestre" : 2,
+               "nota_fin": 9
+           }
+       ,
+           {
+               "id_disc": 5,
+               "nome_disc": "SOCIOLOGIA",
+               "ano_cursado": 2016,
+               "semestre" : 2,
+               "nota_fin": 5
+           }
+       ,
+           {
+               "id_disc": 6,
+               "nome_disc": "INTRODUÇÃO A MODELAGEM MAT",
+               "ano_cursado": 2016,
+               "semestre" : 2,
+               "nota_fin": 4
+           }
+       ,
+           {
+               "id_disc": 7,
+               "nome_disc": "VISUALIZACAO DE DADOS",
+               "ano_cursado": 2016,
+               "semestre" : 2,
+               "nota_fin": 7
+           }
+
+],
+
+       "tcc": {
+           "id_tcc": 9
+       }
+   },
+
+    {
+       "id": 19,
+       "nome": "Evelyn Mendes",
+       "curso": {
+           "id_curso": 1,
+           "curso": "ADMINISTRACAO"
+       },
+       "historico": [
+
+           {
+               "id_disc": 1,
+               "nome_disc": "FUNDAMENTOS DE ADM",
+               "ano_cursado": 2012,
+               "semestre" : 1,
+               "nota_fin": 2
+           }
+       ,
+           {
+               "id_disc": 2,
+               "nome_disc": "BUSSINESS EXP",
+               "ano_cursado": 2012,
+               "semestre" : 1,
+               "nota_fin": 6
+           }
+       ,
+           {
+               "id_disc": 3,
+               "nome_disc": "MACROECONOMIA",
+               "ano_cursado": 2012,
+               "semestre" : 1,
+               "nota_fin": 5
+           }
+       ,
+           {
+               "id_disc": 4,
+               "nome_disc": "LEITURA E PENSAMENTO",
+               "ano_cursado": 2012,
+               "semestre" : 1,
+               "nota_fin": 5
+           }
+       ,
+           {
+               "id_disc": 5,
+               "nome_disc": "SOCIOLOGIA",
+               "ano_cursado": 2012,
+               "semestre" : 1,
+               "nota_fin": 3
+           }
+       ,
+           {
+               "id_disc": 6,
+               "nome_disc": "INTRODUÇÃO A MODELAGEM MAT",
+               "ano_cursado": 2012,
+               "semestre" : 1,
+               "nota_fin": 9
+           }
+       ,
+           {
+               "id_disc": 7,
+               "nome_disc": "VISUALIZACAO DE DADOS",
+               "ano_cursado": 2012,
+               "semestre" : 1,
+               "nota_fin": 4
+           }
+
+],
+
+       "tcc": {
+           "id_tcc": 4
+       }
+   },
+
+    {
+       "id": 20,
+       "nome": "Raul Reis",
+       "curso": {
+           "id_curso": 1,
+           "curso": "ADMINISTRACAO"
+       },
+       "historico": [
+
+           {
+               "id_disc": 1,
+               "nome_disc": "FUNDAMENTOS DE ADM",
+               "ano_cursado": 2022,
+               "semestre" : 4,
+               "nota_fin": 6
+           }
+       ,
+           {
+               "id_disc": 2,
+               "nome_disc": "BUSSINESS EXP",
+               "ano_cursado": 2022,
+               "semestre" : 4,
+               "nota_fin": 10
+           }
+       ,
+           {
+               "id_disc": 3,
+               "nome_disc": "MACROECONOMIA",
+               "ano_cursado": 2022,
+               "semestre" : 4,
+               "nota_fin": 5
+           }
+       ,
+           {
+               "id_disc": 4,
+               "nome_disc": "LEITURA E PENSAMENTO",
+               "ano_cursado": 2022,
+               "semestre" : 4,
+               "nota_fin": 5
+           }
+       ,
+           {
+               "id_disc": 5,
+               "nome_disc": "SOCIOLOGIA",
+               "ano_cursado": 2022,
+               "semestre" : 4,
+               "nota_fin": 5
+           }
+       ,
+           {
+               "id_disc": 6,
+               "nome_disc": "INTRODUÇÃO A MODELAGEM MAT",
+               "ano_cursado": 2022,
+               "semestre" : 4,
+               "nota_fin": 5
+           }
+       ,
+           {
+               "id_disc": 7,
+               "nome_disc": "VISUALIZACAO DE DADOS",
+               "ano_cursado": 2022,
+               "semestre" : 4,
+               "nota_fin": 5
+           }
+
+],
+
+       "tcc": {
+           "id_tcc": 23
+       }
+   },
+
+    {
+       "id": 21,
+       "nome": "Milena Lima",
+       "curso": {
+           "id_curso": 4,
+           "curso": "ENGENHARIA DE CIVIL"
+       },
+       "historico": [
+
+           {
+               "id_disc": 8,
+               "nome_disc": "CALCULO INTEGRAL",
+               "ano_cursado": 2022,
+               "semestre" : 3,
+               "nota_fin": 0
+           }
+       ,
+           {
+               "id_disc": 17,
+               "nome_disc": "CALCULO VETORIAL",
+               "ano_cursado": 2022,
+               "semestre" : 3,
+               "nota_fin": 5
+           }
+       ,
+           {
+               "id_disc": 18,
+               "nome_disc": "DESENHO TECNICO",
+               "ano_cursado": 2022,
+               "semestre" : 3,
+               "nota_fin": 3
+           }
+       ,
+           {
+               "id_disc": 19,
+               "nome_disc": "FISICA 1",
+               "ano_cursado": 2022,
+               "semestre" : 3,
+               "nota_fin": 2
+           }
+       ,
+           {
+               "id_disc": 20,
+               "nome_disc": "LAB DE MAT",
+               "ano_cursado": 2022,
+               "semestre" : 3,
+               "nota_fin": 10
+           }
+       ,
+           {
+               "id_disc": 21,
+               "nome_disc": "PRATICA DE INOVACAO",
+               "ano_cursado": 2022,
+               "semestre" : 3,
+               "nota_fin": 0
+           }
+
+],
+
+       "tcc": {
+           "id_tcc": 2
+       }
+   },
+
+    {
+       "id": 22,
+       "nome": "Diego Moreira",
+       "curso": {
+           "id_curso": 7,
+           "curso": "ENGENHARIA QUIMICA"
+       },
+       "historico": [
+
+           {
+               "id_disc": 5,
+               "nome_disc": "SOCIOLOGIA",
+               "ano_cursado": 2023,
+               "semestre" : 3,
+               "nota_fin": 6
+           }
+       ,
+           {
+               "id_disc": 8,
+               "nome_disc": "CALCULO INTEGRAL",
+               "ano_cursado": 2023,
+               "semestre" : 3,
+               "nota_fin": 6
+           }
+       ,
+           {
+               "id_disc": 17,
+               "nome_disc": "CALCULO VETORIAL",
+               "ano_cursado": 2023,
+               "semestre" : 3,
+               "nota_fin": 5
+           }
+       ,
+           {
+               "id_disc": 18,
+               "nome_disc": "DESENHO TECNICO",
+               "ano_cursado": 2023,
+               "semestre" : 3,
+               "nota_fin": 2
+           }
+       ,
+           {
+               "id_disc": 19,
+               "nome_disc": "FISICA 1",
+               "ano_cursado": 2023,
+               "semestre" : 3,
+               "nota_fin": 10
+           }
+       ,
+           {
+               "id_disc": 20,
+               "nome_disc": "LAB DE MAT",
+               "ano_cursado": 2023,
+               "semestre" : 3,
+               "nota_fin": 8
+           }
+
+],
+
+       "tcc": {
+           "id_tcc": 5
+       }
+   },
+
+    {
+       "id": 23,
+       "nome": "Rafaela Vieira",
+       "curso": {
+           "id_curso": 3,
+           "curso": "CIENCIA DE DADOS"
+       },
+       "historico": [
+
+           {
+               "id_disc": 5,
+               "nome_disc": "SOCIOLOGIA",
+               "ano_cursado": 2020,
+               "semestre" : 2,
+               "nota_fin": 2
+           }
+       ,
+           {
+               "id_disc": 9,
+               "nome_disc": "FUNDAMENTO DE ALGOR",
+               "ano_cursado": 2020,
+               "semestre" : 2,
+               "nota_fin": 0
+           }
+       ,
+           {
+               "id_disc": 13,
+               "nome_disc": "BANCO DE DADOS",
+               "ano_cursado": 2020,
+               "semestre" : 2,
+               "nota_fin": 9
+           }
+       ,
+           {
+               "id_disc": 14,
+               "nome_disc": "MODELAGEM MAT",
+               "ano_cursado": 2020,
+               "semestre" : 2,
+               "nota_fin": 3
+           }
+       ,
+           {
+               "id_disc": 15,
+               "nome_disc": "PROGRAMACAO FULL",
+               "ano_cursado": 2020,
+               "semestre" : 2,
+               "nota_fin": 1
+           }
+       ,
+           {
+               "id_disc": 16,
+               "nome_disc": "DIGITAL EXP",
+               "ano_cursado": 2020,
+               "semestre" : 2,
+               "nota_fin": 1
+           }
+
+],
+
+       "tcc": {
+           "id_tcc": 13
+       }
+   },
+
+    {
+       "id": 24,
+       "nome": "Alice Martins",
+       "curso": {
+           "id_curso": 2,
+           "curso": "CIENCIA DA COMPUTACAO"
+       },
+       "historico": [
+
+           {
+               "id_disc": 5,
+               "nome_disc": "SOCIOLOGIA",
+               "ano_cursado": 2018,
+               "semestre" : 2,
+               "nota_fin": 10
+           }
+       ,
+           {
+               "id_disc": 8,
+               "nome_disc": "CALCULO INTEGRAL",
+               "ano_cursado": 2018,
+               "semestre" : 2,
+               "nota_fin": 7
+           }
+       ,
+           {
+               "id_disc": 9,
+               "nome_disc": "FUNDAMENTO DE ALGOR",
+               "ano_cursado": 2018,
+               "semestre" : 2,
+               "nota_fin": 7
+           }
+       ,
+           {
+               "id_disc": 10,
+               "nome_disc": "DESENVOLVIMENTO WEB",
+               "ano_cursado": 2018,
+               "semestre" : 2,
+               "nota_fin": 2
+           }
+       ,
+           {
+               "id_disc": 12,
+               "nome_disc": "COMUNICAO E EXPRESS",
+               "ano_cursado": 2018,
+               "semestre" : 2,
+               "nota_fin": 4
+           }
+
+],
+
+       "tcc": {
+           "id_tcc": 20
+       }
+   },
+
+    {
+       "id": 25,
+       "nome": "Thiago Rocha",
+       "curso": {
+           "id_curso": 5,
+           "curso": "ENGENHARIA ELETRICA"
+       },
+       "historico": [
+
+           {
+               "id_disc": 5,
+               "nome_disc": "SOCIOLOGIA",
+               "ano_cursado": 2018,
+               "semestre" : 1,
+               "nota_fin": 5
+           }
+       ,
+           {
+               "id_disc": 8,
+               "nome_disc": "CALCULO INTEGRAL",
+               "ano_cursado": 2018,
+               "semestre" : 1,
+               "nota_fin": 6
+           }
+       ,
+           {
+               "id_disc": 18,
+               "nome_disc": "DESENHO TECNICO",
+               "ano_cursado": 2018,
+               "semestre" : 1,
+               "nota_fin": 6
+           }
+       ,
+           {
+               "id_disc": 20,
+               "nome_disc": "LAB DE MAT",
+               "ano_cursado": 2018,
+               "semestre" : 1,
+               "nota_fin": 6
+           }
+       ,
+           {
+               "id_disc": 21,
+               "nome_disc": "PRATICA DE INOVACAO",
+               "ano_cursado": 2018,
+               "semestre" : 1,
+               "nota_fin": 7
+           }
+       ,
+           {
+               "id_disc": 22,
+               "nome_disc": "ELETRONICA GERAL",
+               "ano_cursado": 2018,
+               "semestre" : 1,
+               "nota_fin": 5
+           }
+       ,
+           {
+               "id_disc": 23,
+               "nome_disc": "INTRODUCAO A COMPUTACAO",
+               "ano_cursado": 2018,
+               "semestre" : 1,
+               "nota_fin": 7
+           }
+
+],
+
+       "tcc": {
+           "id_tcc": 18
+       }
+   },
+
+    {
+       "id": 26,
+       "nome": "Thiago Rodrigues",
+       "curso": {
+           "id_curso": 7,
+           "curso": "ENGENHARIA QUIMICA"
+       },
+       "historico": [
+
+           {
+               "id_disc": 5,
+               "nome_disc": "SOCIOLOGIA",
+               "ano_cursado": 2015,
+               "semestre" : 3,
+               "nota_fin": 4
+           }
+       ,
+           {
+               "id_disc": 8,
+               "nome_disc": "CALCULO INTEGRAL",
+               "ano_cursado": 2015,
+               "semestre" : 3,
+               "nota_fin": 1
+           }
+       ,
+           {
+               "id_disc": 17,
+               "nome_disc": "CALCULO VETORIAL",
+               "ano_cursado": 2015,
+               "semestre" : 3,
+               "nota_fin": 8
+           }
+       ,
+           {
+               "id_disc": 18,
+               "nome_disc": "DESENHO TECNICO",
+               "ano_cursado": 2015,
+               "semestre" : 3,
+               "nota_fin": 2
+           }
+       ,
+           {
+               "id_disc": 19,
+               "nome_disc": "FISICA 1",
+               "ano_cursado": 2015,
+               "semestre" : 3,
+               "nota_fin": 0
+           }
+       ,
+           {
+               "id_disc": 20,
+               "nome_disc": "LAB DE MAT",
+               "ano_cursado": 2015,
+               "semestre" : 3,
+               "nota_fin": 8
+           }
+
+],
+
+       "tcc": {
+           "id_tcc": 23
+       }
+   },
+
+    {
+       "id": 27,
+       "nome": "Nicole Gomes",
+       "curso": {
+           "id_curso": 4,
+           "curso": "ENGENHARIA DE CIVIL"
+       },
+       "historico": [
+
+           {
+               "id_disc": 8,
+               "nome_disc": "CALCULO INTEGRAL",
+               "ano_cursado": 2018,
+               "semestre" : 3,
+               "nota_fin": 7
+           }
+       ,
+           {
+               "id_disc": 17,
+               "nome_disc": "CALCULO VETORIAL",
+               "ano_cursado": 2018,
+               "semestre" : 3,
+               "nota_fin": 0
+           }
+       ,
+           {
+               "id_disc": 18,
+               "nome_disc": "DESENHO TECNICO",
+               "ano_cursado": 2018,
+               "semestre" : 3,
+               "nota_fin": 2
+           }
+       ,
+           {
+               "id_disc": 19,
+               "nome_disc": "FISICA 1",
+               "ano_cursado": 2018,
+               "semestre" : 3,
+               "nota_fin": 3
+           }
+       ,
+           {
+               "id_disc": 20,
+               "nome_disc": "LAB DE MAT",
+               "ano_cursado": 2018,
+               "semestre" : 3,
+               "nota_fin": 9
+           }
+       ,
+           {
+               "id_disc": 21,
+               "nome_disc": "PRATICA DE INOVACAO",
+               "ano_cursado": 2018,
+               "semestre" : 3,
+               "nota_fin": 3
+           }
+
+],
+
+       "tcc": {
+           "id_tcc": 8
+       }
+   },
+
+    {
+       "id": 28,
+       "nome": "Caio Barbosa",
+       "curso": {
+           "id_curso": 5,
+           "curso": "ENGENHARIA ELETRICA"
+       },
+       "historico": [
+
+           {
+               "id_disc": 5,
+               "nome_disc": "SOCIOLOGIA",
+               "ano_cursado": 2016,
+               "semestre" : 3,
+               "nota_fin": 9
+           }
+       ,
+           {
+               "id_disc": 8,
+               "nome_disc": "CALCULO INTEGRAL",
+               "ano_cursado": 2016,
+               "semestre" : 3,
+               "nota_fin": 5
+           }
+       ,
+           {
+               "id_disc": 18,
+               "nome_disc": "DESENHO TECNICO",
+               "ano_cursado": 2016,
+               "semestre" : 3,
+               "nota_fin": 6
+           }
+       ,
+           {
+               "id_disc": 20,
+               "nome_disc": "LAB DE MAT",
+               "ano_cursado": 2016,
+               "semestre" : 3,
+               "nota_fin": 5
+           }
+       ,
+           {
+               "id_disc": 21,
+               "nome_disc": "PRATICA DE INOVACAO",
+               "ano_cursado": 2016,
+               "semestre" : 3,
+               "nota_fin": 6
+           }
+       ,
+           {
+               "id_disc": 22,
+               "nome_disc": "ELETRONICA GERAL",
+               "ano_cursado": 2016,
+               "semestre" : 3,
+               "nota_fin": 6
+           }
+       ,
+           {
+               "id_disc": 23,
+               "nome_disc": "INTRODUCAO A COMPUTACAO",
+               "ano_cursado": 2016,
+               "semestre" : 3,
+               "nota_fin": 3
+           }
+
+],
+
+       "tcc": {
+           "id_tcc": 11
+       }
+   },
+
+    {
+       "id": 29,
+       "nome": "Noah Souza",
+       "curso": {
+           "id_curso": 3,
+           "curso": "CIENCIA DE DADOS"
+       },
+       "historico": [
+
+           {
+               "id_disc": 5,
+               "nome_disc": "SOCIOLOGIA",
+               "ano_cursado": 2011,
+               "semestre" : 2,
+               "nota_fin": 7
+           }
+       ,
+           {
+               "id_disc": 9,
+               "nome_disc": "FUNDAMENTO DE ALGOR",
+               "ano_cursado": 2011,
+               "semestre" : 2,
+               "nota_fin": 8
+           }
+       ,
+           {
+               "id_disc": 13,
+               "nome_disc": "BANCO DE DADOS",
+               "ano_cursado": 2011,
+               "semestre" : 2,
+               "nota_fin": 8
+           }
+       ,
+           {
+               "id_disc": 14,
+               "nome_disc": "MODELAGEM MAT",
+               "ano_cursado": 2011,
+               "semestre" : 2,
+               "nota_fin": 2
+           }
+       ,
+           {
+               "id_disc": 15,
+               "nome_disc": "PROGRAMACAO FULL",
+               "ano_cursado": 2011,
+               "semestre" : 2,
+               "nota_fin": 2
+           }
+       ,
+           {
+               "id_disc": 16,
+               "nome_disc": "DIGITAL EXP",
+               "ano_cursado": 2011,
+               "semestre" : 2,
+               "nota_fin": 2
+           }
+
+],
+
+       "tcc": {
+           "id_tcc": 15
+       }
+   },
+
+    {
+       "id": 30,
+       "nome": "Emily Costa",
+       "curso": {
+           "id_curso": 6,
+           "curso": "ENGENHARIA MECANICA"
+       },
+       "historico": [
+
+           {
+               "id_disc": 5,
+               "nome_disc": "SOCIOLOGIA",
+               "ano_cursado": 2021,
+               "semestre" : 3,
+               "nota_fin": 7
+           }
+       ,
+           {
+               "id_disc": 8,
+               "nome_disc": "CALCULO INTEGRAL",
+               "ano_cursado": 2021,
+               "semestre" : 3,
+               "nota_fin": 5
+           }
+       ,
+           {
+               "id_disc": 18,
+               "nome_disc": "DESENHO TECNICO",
+               "ano_cursado": 2021,
+               "semestre" : 3,
+               "nota_fin": 5
+           }
+       ,
+           {
+               "id_disc": 20,
+               "nome_disc": "LAB DE MAT",
+               "ano_cursado": 2021,
+               "semestre" : 3,
+               "nota_fin": 7
+           }
+       ,
+           {
+               "id_disc": 21,
+               "nome_disc": "PRATICA DE INOVACAO",
+               "ano_cursado": 2021,
+               "semestre" : 3,
+               "nota_fin": 9
+           }
+       ,
+           {
+               "id_disc": 22,
+               "nome_disc": "ELETRONICA GERAL",
+               "ano_cursado": 2021,
+               "semestre" : 3,
+               "nota_fin": 5
+           }
+       ,
+           {
+               "id_disc": 23,
+               "nome_disc": "INTRODUCAO A COMPUTACAO",
+               "ano_cursado": 2021,
+               "semestre" : 3,
+               "nota_fin": 5
+           }
+
+],
+
+       "tcc": {
+           "id_tcc": 12
+       }
+   },
+
+    {
+       "id": 31,
+       "nome": "Eduardo Fernandes",
+       "curso": {
+           "id_curso": 2,
+           "curso": "CIENCIA DA COMPUTACAO"
+       },
+       "historico": [
+
+           {
+               "id_disc": 5,
+               "nome_disc": "SOCIOLOGIA",
+               "ano_cursado": 2022,
+               "semestre" : 3,
+               "nota_fin": 8
+           }
+       ,
+           {
+               "id_disc": 8,
+               "nome_disc": "CALCULO INTEGRAL",
+               "ano_cursado": 2022,
+               "semestre" : 3,
+               "nota_fin": 10
+           }
+       ,
+           {
+               "id_disc": 9,
+               "nome_disc": "FUNDAMENTO DE ALGOR",
+               "ano_cursado": 2022,
+               "semestre" : 3,
+               "nota_fin": 2
+           }
+       ,
+           {
+               "id_disc": 10,
+               "nome_disc": "DESENVOLVIMENTO WEB",
+               "ano_cursado": 2022,
+               "semestre" : 3,
+               "nota_fin": 8
+           }
+       ,
+           {
+               "id_disc": 12,
+               "nome_disc": "COMUNICAO E EXPRESS",
+               "ano_cursado": 2022,
+               "semestre" : 3,
+               "nota_fin": 0
+           }
+
+],
+
+       "tcc": {
+           "id_tcc": 17
+       }
+   },
+
+    {
+       "id": 32,
+       "nome": "Emanuelly Carvalho",
+       "curso": {
+           "id_curso": 2,
+           "curso": "CIENCIA DA COMPUTACAO"
+       },
+       "historico": [
+
+           {
+               "id_disc": 5,
+               "nome_disc": "SOCIOLOGIA",
+               "ano_cursado": 2021,
+               "semestre" : 2,
+               "nota_fin": 9
+           }
+       ,
+           {
+               "id_disc": 8,
+               "nome_disc": "CALCULO INTEGRAL",
+               "ano_cursado": 2021,
+               "semestre" : 2,
+               "nota_fin": 9
+           }
+       ,
+           {
+               "id_disc": 9,
+               "nome_disc": "FUNDAMENTO DE ALGOR",
+               "ano_cursado": 2021,
+               "semestre" : 2,
+               "nota_fin": 3
+           }
+       ,
+           {
+               "id_disc": 10,
+               "nome_disc": "DESENVOLVIMENTO WEB",
+               "ano_cursado": 2021,
+               "semestre" : 2,
+               "nota_fin": 10
+           }
+       ,
+           {
+               "id_disc": 12,
+               "nome_disc": "COMUNICAO E EXPRESS",
+               "ano_cursado": 2021,
+               "semestre" : 2,
+               "nota_fin": 10
+           }
+
+],
+
+       "tcc": {
+           "id_tcc": 2
+       }
+   },
+
+    {
+       "id": 33,
+       "nome": "Nicolas Teixeira",
+       "curso": {
+           "id_curso": 7,
+           "curso": "ENGENHARIA QUIMICA"
+       },
+       "historico": [
+
+           {
+               "id_disc": 5,
+               "nome_disc": "SOCIOLOGIA",
+               "ano_cursado": 2023,
+               "semestre" : 2,
+               "nota_fin": 2
+           }
+       ,
+           {
+               "id_disc": 8,
+               "nome_disc": "CALCULO INTEGRAL",
+               "ano_cursado": 2023,
+               "semestre" : 2,
+               "nota_fin": 8
+           }
+       ,
+           {
+               "id_disc": 17,
+               "nome_disc": "CALCULO VETORIAL",
+               "ano_cursado": 2023,
+               "semestre" : 2,
+               "nota_fin": 6
+           }
+       ,
+           {
+               "id_disc": 18,
+               "nome_disc": "DESENHO TECNICO",
+               "ano_cursado": 2023,
+               "semestre" : 2,
+               "nota_fin": 6
+           }
+       ,
+           {
+               "id_disc": 19,
+               "nome_disc": "FISICA 1",
+               "ano_cursado": 2023,
+               "semestre" : 2,
+               "nota_fin": 1
+           }
+       ,
+           {
+               "id_disc": 20,
+               "nome_disc": "LAB DE MAT",
+               "ano_cursado": 2023,
+               "semestre" : 2,
+               "nota_fin": 6
+           }
+
+],
+
+       "tcc": {
+           "id_tcc": 25
+       }
+   },
+
+    {
+       "id": 34,
+       "nome": "Pedro Borges",
+       "curso": {
+           "id_curso": 7,
+           "curso": "ENGENHARIA QUIMICA"
+       },
+       "historico": [
+
+           {
+               "id_disc": 5,
+               "nome_disc": "SOCIOLOGIA",
+               "ano_cursado": 2016,
+               "semestre" : 3,
+               "nota_fin": 10
+           }
+       ,
+           {
+               "id_disc": 8,
+               "nome_disc": "CALCULO INTEGRAL",
+               "ano_cursado": 2016,
+               "semestre" : 3,
+               "nota_fin": 7
+           }
+       ,
+           {
+               "id_disc": 17,
+               "nome_disc": "CALCULO VETORIAL",
+               "ano_cursado": 2016,
+               "semestre" : 3,
+               "nota_fin": 2
+           }
+       ,
+           {
+               "id_disc": 18,
+               "nome_disc": "DESENHO TECNICO",
+               "ano_cursado": 2016,
+               "semestre" : 3,
+               "nota_fin": 3
+           }
+       ,
+           {
+               "id_disc": 19,
+               "nome_disc": "FISICA 1",
+               "ano_cursado": 2016,
+               "semestre" : 3,
+               "nota_fin": 3
+           }
+       ,
+           {
+               "id_disc": 20,
+               "nome_disc": "LAB DE MAT",
+               "ano_cursado": 2016,
+               "semestre" : 3,
+               "nota_fin": 0
+           }
+
+],
+
+       "tcc": {
+           "id_tcc": 22
+       }
+   },
+
+    {
+       "id": 35,
+       "nome": "Evelyn Alves",
+       "curso": {
+           "id_curso": 6,
+           "curso": "ENGENHARIA MECANICA"
+       },
+       "historico": [
+
+           {
+               "id_disc": 5,
+               "nome_disc": "SOCIOLOGIA",
+               "ano_cursado": 2014,
+               "semestre" : 4,
+               "nota_fin": 5
+           }
+       ,
+           {
+               "id_disc": 8,
+               "nome_disc": "CALCULO INTEGRAL",
+               "ano_cursado": 2014,
+               "semestre" : 4,
+               "nota_fin": 5
+           }
+       ,
+           {
+               "id_disc": 18,
+               "nome_disc": "DESENHO TECNICO",
+               "ano_cursado": 2014,
+               "semestre" : 4,
+               "nota_fin": 5
+           }
+       ,
+           {
+               "id_disc": 20,
+               "nome_disc": "LAB DE MAT",
+               "ano_cursado": 2014,
+               "semestre" : 4,
+               "nota_fin": 5
+           }
+       ,
+           {
+               "id_disc": 21,
+               "nome_disc": "PRATICA DE INOVACAO",
+               "ano_cursado": 2014,
+               "semestre" : 4,
+               "nota_fin": 5
+           }
+       ,
+           {
+               "id_disc": 22,
+               "nome_disc": "ELETRONICA GERAL",
+               "ano_cursado": 2014,
+               "semestre" : 4,
+               "nota_fin": 5
+           }
+       ,
+           {
+               "id_disc": 23,
+               "nome_disc": "INTRODUCAO A COMPUTACAO",
+               "ano_cursado": 2014,
+               "semestre" : 4,
+               "nota_fin": 5
+           }
+
+],
+
+       "tcc": {
+           "id_tcc": 1
+       }
+   },
+
+    {
+       "id": 36,
+       "nome": "Clara Costa",
+       "curso": {
+           "id_curso": 6,
+           "curso": "ENGENHARIA MECANICA"
+       },
+       "historico": [
+
+           {
+               "id_disc": 5,
+               "nome_disc": "SOCIOLOGIA",
+               "ano_cursado": 2017,
+               "semestre" : 4,
+               "nota_fin": 1
+           }
+       ,
+           {
+               "id_disc": 8,
+               "nome_disc": "CALCULO INTEGRAL",
+               "ano_cursado": 2017,
+               "semestre" : 4,
+               "nota_fin": 6
+           }
+       ,
+           {
+               "id_disc": 18,
+               "nome_disc": "DESENHO TECNICO",
+               "ano_cursado": 2017,
+               "semestre" : 4,
+               "nota_fin": 5
+           }
+       ,
+           {
+               "id_disc": 20,
+               "nome_disc": "LAB DE MAT",
+               "ano_cursado": 2017,
+               "semestre" : 4,
+               "nota_fin": 7
+           }
+       ,
+           {
+               "id_disc": 21,
+               "nome_disc": "PRATICA DE INOVACAO",
+               "ano_cursado": 2017,
+               "semestre" : 4,
+               "nota_fin": 6
+           }
+       ,
+           {
+               "id_disc": 22,
+               "nome_disc": "ELETRONICA GERAL",
+               "ano_cursado": 2017,
+               "semestre" : 4,
+               "nota_fin": 4
+           }
+       ,
+           {
+               "id_disc": 23,
+               "nome_disc": "INTRODUCAO A COMPUTACAO",
+               "ano_cursado": 2017,
+               "semestre" : 4,
+               "nota_fin": 6
+           }
+
+],
+
+       "tcc": {
+           "id_tcc": 17
+       }
+   },
+
+    {
+       "id": 37,
+       "nome": "Heitor Cruz",
+       "curso": {
+           "id_curso": 2,
+           "curso": "CIENCIA DA COMPUTACAO"
+       },
+       "historico": [
+
+           {
+               "id_disc": 5,
+               "nome_disc": "SOCIOLOGIA",
+               "ano_cursado": 2022,
+               "semestre" : 3,
+               "nota_fin": 2
+           }
+       ,
+           {
+               "id_disc": 8,
+               "nome_disc": "CALCULO INTEGRAL",
+               "ano_cursado": 2022,
+               "semestre" : 3,
+               "nota_fin": 5
+           }
+       ,
+           {
+               "id_disc": 9,
+               "nome_disc": "FUNDAMENTO DE ALGOR",
+               "ano_cursado": 2022,
+               "semestre" : 3,
+               "nota_fin": 5
+           }
+       ,
+           {
+               "id_disc": 10,
+               "nome_disc": "DESENVOLVIMENTO WEB",
+               "ano_cursado": 2022,
+               "semestre" : 3,
+               "nota_fin": 7
+           }
+       ,
+           {
+               "id_disc": 12,
+               "nome_disc": "COMUNICAO E EXPRESS",
+               "ano_cursado": 2022,
+               "semestre" : 3,
+               "nota_fin": 3
+           }
+
+],
+
+       "tcc": {
+           "id_tcc": 1
+       }
+   },
+
+    {
+       "id": 38,
+       "nome": "Isabel Araújo",
+       "curso": {
+           "id_curso": 1,
+           "curso": "ADMINISTRACAO"
+       },
+       "historico": [
+
+           {
+               "id_disc": 1,
+               "nome_disc": "FUNDAMENTOS DE ADM",
+               "ano_cursado": 2011,
+               "semestre" : 2,
+               "nota_fin": 5
+           }
+       ,
+           {
+               "id_disc": 2,
+               "nome_disc": "BUSSINESS EXP",
+               "ano_cursado": 2011,
+               "semestre" : 2,
+               "nota_fin": 4
+           }
+       ,
+           {
+               "id_disc": 3,
+               "nome_disc": "MACROECONOMIA",
+               "ano_cursado": 2011,
+               "semestre" : 2,
+               "nota_fin": 5
+           }
+       ,
+           {
+               "id_disc": 4,
+               "nome_disc": "LEITURA E PENSAMENTO",
+               "ano_cursado": 2011,
+               "semestre" : 2,
+               "nota_fin": 5
+           }
+       ,
+           {
+               "id_disc": 5,
+               "nome_disc": "SOCIOLOGIA",
+               "ano_cursado": 2011,
+               "semestre" : 2,
+               "nota_fin": 9
+           }
+       ,
+           {
+               "id_disc": 6,
+               "nome_disc": "INTRODUÇÃO A MODELAGEM MAT",
+               "ano_cursado": 2011,
+               "semestre" : 2,
+               "nota_fin": 5
+           }
+       ,
+           {
+               "id_disc": 7,
+               "nome_disc": "VISUALIZACAO DE DADOS",
+               "ano_cursado": 2011,
+               "semestre" : 2,
+               "nota_fin": 4
+           }
+
+],
+
+       "tcc": {
+           "id_tcc": 21
+       }
+   },
+
+    {
+       "id": 39,
+       "nome": "Júlia Nascimento",
+       "curso": {
+           "id_curso": 1,
+           "curso": "ADMINISTRACAO"
+       },
+       "historico": [
+
+           {
+               "id_disc": 1,
+               "nome_disc": "FUNDAMENTOS DE ADM",
+               "ano_cursado": 2023,
+               "semestre" : 3,
+               "nota_fin": 5
+           }
+       ,
+           {
+               "id_disc": 2,
+               "nome_disc": "BUSSINESS EXP",
+               "ano_cursado": 2023,
+               "semestre" : 3,
+               "nota_fin": 0
+           }
+       ,
+           {
+               "id_disc": 3,
+               "nome_disc": "MACROECONOMIA",
+               "ano_cursado": 2023,
+               "semestre" : 3,
+               "nota_fin": 3
+           }
+       ,
+           {
+               "id_disc": 4,
+               "nome_disc": "LEITURA E PENSAMENTO",
+               "ano_cursado": 2023,
+               "semestre" : 3,
+               "nota_fin": 8
+           }
+       ,
+           {
+               "id_disc": 5,
+               "nome_disc": "SOCIOLOGIA",
+               "ano_cursado": 2023,
+               "semestre" : 3,
+               "nota_fin": 5
+           }
+       ,
+           {
+               "id_disc": 6,
+               "nome_disc": "INTRODUÇÃO A MODELAGEM MAT",
+               "ano_cursado": 2023,
+               "semestre" : 3,
+               "nota_fin": 9
+           }
+       ,
+           {
+               "id_disc": 7,
+               "nome_disc": "VISUALIZACAO DE DADOS",
+               "ano_cursado": 2023,
+               "semestre" : 3,
+               "nota_fin": 1
+           }
+
+],
+
+       "tcc": {
+           "id_tcc": 9
+       }
+   },
+
+    {
+       "id": 40,
+       "nome": "Benjamin Lima",
+       "curso": {
+           "id_curso": 1,
+           "curso": "ADMINISTRACAO"
+       },
+       "historico": [
+
+           {
+               "id_disc": 1,
+               "nome_disc": "FUNDAMENTOS DE ADM",
+               "ano_cursado": 2021,
+               "semestre" : 4,
+               "nota_fin": 5
+           }
+       ,
+           {
+               "id_disc": 2,
+               "nome_disc": "BUSSINESS EXP",
+               "ano_cursado": 2021,
+               "semestre" : 4,
+               "nota_fin": 5
+           }
+       ,
+           {
+               "id_disc": 3,
+               "nome_disc": "MACROECONOMIA",
+               "ano_cursado": 2021,
+               "semestre" : 4,
+               "nota_fin": 6
+           }
+       ,
+           {
+               "id_disc": 4,
+               "nome_disc": "LEITURA E PENSAMENTO",
+               "ano_cursado": 2021,
+               "semestre" : 4,
+               "nota_fin": 5
+           }
+       ,
+           {
+               "id_disc": 5,
+               "nome_disc": "SOCIOLOGIA",
+               "ano_cursado": 2021,
+               "semestre" : 4,
+               "nota_fin": 9
+           }
+       ,
+           {
+               "id_disc": 6,
+               "nome_disc": "INTRODUÇÃO A MODELAGEM MAT",
+               "ano_cursado": 2021,
+               "semestre" : 4,
+               "nota_fin": 6
+           }
+       ,
+           {
+               "id_disc": 7,
+               "nome_disc": "VISUALIZACAO DE DADOS",
+               "ano_cursado": 2021,
+               "semestre" : 4,
+               "nota_fin": 6
+           }
+
+],
+
+       "tcc": {
+           "id_tcc": 21
+       }
+   },
+
+    {
+       "id": 41,
+       "nome": "Breno Almeida",
+       "curso": {
+           "id_curso": 7,
+           "curso": "ENGENHARIA QUIMICA"
+       },
+       "historico": [
+
+           {
+               "id_disc": 5,
+               "nome_disc": "SOCIOLOGIA",
+               "ano_cursado": 2021,
+               "semestre" : 1,
+               "nota_fin": 6
+           }
+       ,
+           {
+               "id_disc": 8,
+               "nome_disc": "CALCULO INTEGRAL",
+               "ano_cursado": 2021,
+               "semestre" : 1,
+               "nota_fin": 0
+           }
+       ,
+           {
+               "id_disc": 17,
+               "nome_disc": "CALCULO VETORIAL",
+               "ano_cursado": 2021,
+               "semestre" : 1,
+               "nota_fin": 8
+           }
+       ,
+           {
+               "id_disc": 18,
+               "nome_disc": "DESENHO TECNICO",
+               "ano_cursado": 2021,
+               "semestre" : 1,
+               "nota_fin": 2
+           }
+       ,
+           {
+               "id_disc": 19,
+               "nome_disc": "FISICA 1",
+               "ano_cursado": 2021,
+               "semestre" : 1,
+               "nota_fin": 7
+           }
+       ,
+           {
+               "id_disc": 20,
+               "nome_disc": "LAB DE MAT",
+               "ano_cursado": 2021,
+               "semestre" : 1,
+               "nota_fin": 6
+           }
+
+],
+
+       "tcc": {
+           "id_tcc": 7
+       }
+   },
+
+    {
+       "id": 42,
+       "nome": "Samuel Freitas",
+       "curso": {
+           "id_curso": 4,
+           "curso": "ENGENHARIA DE CIVIL"
+       },
+       "historico": [
+
+           {
+               "id_disc": 8,
+               "nome_disc": "CALCULO INTEGRAL",
+               "ano_cursado": 2024,
+               "semestre" : 4,
+               "nota_fin": 9
+           }
+       ,
+           {
+               "id_disc": 17,
+               "nome_disc": "CALCULO VETORIAL",
+               "ano_cursado": 2024,
+               "semestre" : 4,
+               "nota_fin": 8
+           }
+       ,
+           {
+               "id_disc": 18,
+               "nome_disc": "DESENHO TECNICO",
+               "ano_cursado": 2024,
+               "semestre" : 4,
+               "nota_fin": 6
+           }
+       ,
+           {
+               "id_disc": 19,
+               "nome_disc": "FISICA 1",
+               "ano_cursado": 2024,
+               "semestre" : 4,
+               "nota_fin": 0
+           }
+       ,
+           {
+               "id_disc": 20,
+               "nome_disc": "LAB DE MAT",
+               "ano_cursado": 2024,
+               "semestre" : 4,
+               "nota_fin": 1
+           }
+       ,
+           {
+               "id_disc": 21,
+               "nome_disc": "PRATICA DE INOVACAO",
+               "ano_cursado": 2024,
+               "semestre" : 4,
+               "nota_fin": 6
+           }
+
+],
+
+       "tcc": {
+           "id_tcc": 21
+       }
+   },
+
+    {
+       "id": 43,
+       "nome": "Vicente Borges",
+       "curso": {
+           "id_curso": 3,
+           "curso": "CIENCIA DE DADOS"
+       },
+       "historico": [
+
+           {
+               "id_disc": 5,
+               "nome_disc": "SOCIOLOGIA",
+               "ano_cursado": 2013,
+               "semestre" : 2,
+               "nota_fin": 10
+           }
+       ,
+           {
+               "id_disc": 9,
+               "nome_disc": "FUNDAMENTO DE ALGOR",
+               "ano_cursado": 2013,
+               "semestre" : 2,
+               "nota_fin": 7
+           }
+       ,
+           {
+               "id_disc": 13,
+               "nome_disc": "BANCO DE DADOS",
+               "ano_cursado": 2013,
+               "semestre" : 2,
+               "nota_fin": 2
+           }
+       ,
+           {
+               "id_disc": 14,
+               "nome_disc": "MODELAGEM MAT",
+               "ano_cursado": 2013,
+               "semestre" : 2,
+               "nota_fin": 7
+           }
+       ,
+           {
+               "id_disc": 15,
+               "nome_disc": "PROGRAMACAO FULL",
+               "ano_cursado": 2013,
+               "semestre" : 2,
+               "nota_fin": 0
+           }
+       ,
+           {
+               "id_disc": 16,
+               "nome_disc": "DIGITAL EXP",
+               "ano_cursado": 2013,
+               "semestre" : 2,
+               "nota_fin": 10
+           }
+
+],
+
+       "tcc": {
+           "id_tcc": 6
+       }
+   },
+
+    {
+       "id": 44,
+       "nome": "Isaac Dias",
+       "curso": {
+           "id_curso": 6,
+           "curso": "ENGENHARIA MECANICA"
+       },
+       "historico": [
+
+           {
+               "id_disc": 5,
+               "nome_disc": "SOCIOLOGIA",
+               "ano_cursado": 2016,
+               "semestre" : 1,
+               "nota_fin": 4
+           }
+       ,
+           {
+               "id_disc": 8,
+               "nome_disc": "CALCULO INTEGRAL",
+               "ano_cursado": 2016,
+               "semestre" : 1,
+               "nota_fin": 7
+           }
+       ,
+           {
+               "id_disc": 18,
+               "nome_disc": "DESENHO TECNICO",
+               "ano_cursado": 2016,
+               "semestre" : 1,
+               "nota_fin": 5
+           }
+       ,
+           {
+               "id_disc": 20,
+               "nome_disc": "LAB DE MAT",
+               "ano_cursado": 2016,
+               "semestre" : 1,
+               "nota_fin": 2
+           }
+       ,
+           {
+               "id_disc": 21,
+               "nome_disc": "PRATICA DE INOVACAO",
+               "ano_cursado": 2016,
+               "semestre" : 1,
+               "nota_fin": 6
+           }
+       ,
+           {
+               "id_disc": 22,
+               "nome_disc": "ELETRONICA GERAL",
+               "ano_cursado": 2016,
+               "semestre" : 1,
+               "nota_fin": 0
+           }
+       ,
+           {
+               "id_disc": 23,
+               "nome_disc": "INTRODUCAO A COMPUTACAO",
+               "ano_cursado": 2016,
+               "semestre" : 1,
+               "nota_fin": 4
+           }
+
+],
+
+       "tcc": {
+           "id_tcc": 13
+       }
+   },
+
+    {
+       "id": 45,
+       "nome": "Raul Dias",
+       "curso": {
+           "id_curso": 2,
+           "curso": "CIENCIA DA COMPUTACAO"
+       },
+       "historico": [
+
+           {
+               "id_disc": 5,
+               "nome_disc": "SOCIOLOGIA",
+               "ano_cursado": 2024,
+               "semestre" : 2,
+               "nota_fin": 5
+           }
+       ,
+           {
+               "id_disc": 8,
+               "nome_disc": "CALCULO INTEGRAL",
+               "ano_cursado": 2024,
+               "semestre" : 2,
+               "nota_fin": 5
+           }
+       ,
+           {
+               "id_disc": 9,
+               "nome_disc": "FUNDAMENTO DE ALGOR",
+               "ano_cursado": 2024,
+               "semestre" : 2,
+               "nota_fin": 5
+           }
+       ,
+           {
+               "id_disc": 10,
+               "nome_disc": "DESENVOLVIMENTO WEB",
+               "ano_cursado": 2024,
+               "semestre" : 2,
+               "nota_fin": 5
+           }
+       ,
+           {
+               "id_disc": 12,
+               "nome_disc": "COMUNICAO E EXPRESS",
+               "ano_cursado": 2024,
+               "semestre" : 2,
+               "nota_fin": 6
+           }
+
+],
+
+       "tcc": {
+           "id_tcc": 5
+       }
+   },
+
+    {
+       "id": 46,
+       "nome": "Alice Santos",
+       "curso": {
+           "id_curso": 6,
+           "curso": "ENGENHARIA MECANICA"
+       },
+       "historico": [
+
+           {
+               "id_disc": 5,
+               "nome_disc": "SOCIOLOGIA",
+               "ano_cursado": 2012,
+               "semestre" : 3,
+               "nota_fin": 2
+           }
+       ,
+           {
+               "id_disc": 8,
+               "nome_disc": "CALCULO INTEGRAL",
+               "ano_cursado": 2012,
+               "semestre" : 3,
+               "nota_fin": 10
+           }
+       ,
+           {
+               "id_disc": 18,
+               "nome_disc": "DESENHO TECNICO",
+               "ano_cursado": 2012,
+               "semestre" : 3,
+               "nota_fin": 5
+           }
+       ,
+           {
+               "id_disc": 20,
+               "nome_disc": "LAB DE MAT",
+               "ano_cursado": 2012,
+               "semestre" : 3,
+               "nota_fin": 1
+           }
+       ,
+           {
+               "id_disc": 21,
+               "nome_disc": "PRATICA DE INOVACAO",
+               "ano_cursado": 2012,
+               "semestre" : 3,
+               "nota_fin": 3
+           }
+       ,
+           {
+               "id_disc": 22,
+               "nome_disc": "ELETRONICA GERAL",
+               "ano_cursado": 2012,
+               "semestre" : 3,
+               "nota_fin": 9
+           }
+       ,
+           {
+               "id_disc": 23,
+               "nome_disc": "INTRODUCAO A COMPUTACAO",
+               "ano_cursado": 2012,
+               "semestre" : 3,
+               "nota_fin": 6
+           }
+
+],
+
+       "tcc": {
+           "id_tcc": 8
+       }
+   },
+
+    {
+       "id": 47,
+       "nome": "Bruno Martins",
+       "curso": {
+           "id_curso": 1,
+           "curso": "ADMINISTRACAO"
+       },
+       "historico": [
+
+           {
+               "id_disc": 1,
+               "nome_disc": "FUNDAMENTOS DE ADM",
+               "ano_cursado": 2013,
+               "semestre" : 1,
+               "nota_fin": 9
+           }
+       ,
+           {
+               "id_disc": 2,
+               "nome_disc": "BUSSINESS EXP",
+               "ano_cursado": 2013,
+               "semestre" : 1,
+               "nota_fin": 2
+           }
+       ,
+           {
+               "id_disc": 3,
+               "nome_disc": "MACROECONOMIA",
+               "ano_cursado": 2013,
+               "semestre" : 1,
+               "nota_fin": 2
+           }
+       ,
+           {
+               "id_disc": 4,
+               "nome_disc": "LEITURA E PENSAMENTO",
+               "ano_cursado": 2013,
+               "semestre" : 1,
+               "nota_fin": 5
+           }
+       ,
+           {
+               "id_disc": 5,
+               "nome_disc": "SOCIOLOGIA",
+               "ano_cursado": 2013,
+               "semestre" : 1,
+               "nota_fin": 4
+           }
+       ,
+           {
+               "id_disc": 6,
+               "nome_disc": "INTRODUÇÃO A MODELAGEM MAT",
+               "ano_cursado": 2013,
+               "semestre" : 1,
+               "nota_fin": 2
+           }
+       ,
+           {
+               "id_disc": 7,
+               "nome_disc": "VISUALIZACAO DE DADOS",
+               "ano_cursado": 2013,
+               "semestre" : 1,
+               "nota_fin": 7
+           }
+
+],
+
+       "tcc": {
+           "id_tcc": 19
+       }
+   }
+]

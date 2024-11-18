@@ -1,0 +1,164 @@
+[
+ 
+    {
+        "curso" : {
+            "id": 1,
+            "name" : "ADMINISTRACAO"
+        },
+        "disciplinas" : [
+    
+            {"id": 1, "name": "FUNDAMENTOS DE ADM"},
+
+            {"id": 2, "name": "BUSSINESS EXP"},
+
+            {"id": 3, "name": "MACROECONOMIA"},
+
+            {"id": 4, "name": "LEITURA E PENSAMENTO"},
+
+            {"id": 5, "name": "SOCIOLOGIA"},
+
+            {"id": 6, "name": "INTRODUÇÃO A MODELAGEM MAT"},
+
+            {"id": 7, "name": "VISUALIZACAO DE DADOS"}
+
+        ]
+    },
+
+    {
+        "curso" : {
+            "id": 2,
+            "name" : "CIENCIA DA COMPUTACAO"
+        },
+        "disciplinas" : [
+
+            {"id": 8, "name": "CALCULO INTEGRAL"},
+
+            {"id": 9, "name": "FUNDAMENTO DE ALGOR"},
+
+            {"id": 10, "name": "DESENVOLVIMENTO WEB"},
+
+            {"id": 5, "name": "SOCIOLOGIA"},
+
+            {"id": 12, "name": "COMUNICAO E EXPRESS"}
+
+        ]
+    },
+
+    {
+        "curso" : {
+            "id": 3,
+            "name" : "CIENCIA DE DADOS"
+        },
+        "disciplinas" : [
+
+            {"id": 13, "name": "BANCO DE DADOS"},
+
+            {"id": 14, "name": "MODELAGEM MAT"},
+
+            {"id": 9, "name": "FUNDAMENTO DE ALGOR"},
+
+            {"id": 15, "name": "PROGRAMACAO FULL"},
+
+            {"id": 16, "name": "DIGITAL EXP"},
+
+            {"id": 5, "name": "SOCIOLOGIA"},
+
+            {"id": 15, "name": "PROGRAMACAO FULL"}
+
+        ]
+    },
+
+    {
+        "curso" : {
+            "id": 4,
+            "name" : "ENGENHARIA DE CIVIL"
+        },
+        "disciplinas" : [
+
+            {"id": 8, "name": "CALCULO INTEGRAL"},
+
+            {"id": 17, "name": "CALCULO VETORIAL"},
+
+            {"id": 18, "name": "DESENHO TECNICO"},
+
+            {"id": 19, "name": "FISICA 1"},
+
+            {"id": 20, "name": "LAB DE MAT"},
+
+            {"id": 21, "name": "PRATICA DE INOVACAO"}
+
+        ]
+    },
+
+    {
+        "curso" : {
+            "id": 5,
+            "name" : "ENGENHARIA ELETRICA"
+        },
+        "disciplinas" : [
+
+            {"id": 8, "name": "CALCULO INTEGRAL"},
+
+            {"id": 18, "name": "DESENHO TECNICO"},
+
+            {"id": 22, "name": "ELETRONICA GERAL"},
+
+            {"id": 23, "name": "INTRODUCAO A COMPUTACAO"},
+
+            {"id": 20, "name": "LAB DE MAT"},
+
+            {"id": 21, "name": "PRATICA DE INOVACAO"},
+
+            {"id": 5, "name": "SOCIOLOGIA"}
+
+        ]
+    },
+
+    {
+        "curso" : {
+            "id": 6,
+            "name" : "ENGENHARIA MECANICA"
+        },
+        "disciplinas" : [
+
+            {"id": 8, "name": "CALCULO INTEGRAL"},
+
+            {"id": 18, "name": "DESENHO TECNICO"},
+
+            {"id": 22, "name": "ELETRONICA GERAL"},
+
+            {"id": 23, "name": "INTRODUCAO A COMPUTACAO"},
+
+            {"id": 20, "name": "LAB DE MAT"},
+
+            {"id": 21, "name": "PRATICA DE INOVACAO"},
+
+            {"id": 5, "name": "SOCIOLOGIA"}
+
+        ]
+    },
+
+    {
+        "curso" : {
+            "id": 7,
+            "name" : "ENGENHARIA QUIMICA"
+        },
+        "disciplinas" : [
+
+            {"id": 8, "name": "CALCULO INTEGRAL"},
+
+            {"id": 17, "name": "CALCULO VETORIAL"},
+
+            {"id": 18, "name": "DESENHO TECNICO"},
+
+            {"id": 19, "name": "FISICA 1"},
+
+            {"id": 20, "name": "LAB DE MAT"},
+
+            {"id": 21, "name": "PRATICA DE INOVACAO"},
+
+            {"id": 5, "name": "SOCIOLOGIA"}
+
+        ]
+    }
+    ]
